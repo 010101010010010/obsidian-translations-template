@@ -1,0 +1,57 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "homepage",
+        "version": "1.0.0",
+        "title": "Homepage",
+        "description": "Homepage Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "4.3.1",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom daily note settings found!",
+            "target": "No custom daily note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom weekly note settings found!",
+            "target": "No custom weekly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom monthly note settings found!",
+            "target": "No custom monthly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom quarterly note settings found!",
+            "target": "No custom quarterly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom yearly note settings found!",
+            "target": "No custom yearly note settings found!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unable to create new file.",
+            "target": "Unable to create new file."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "New tab",
+            "target": "New tab"
+        }
+    ],
+    "regex": []
+}
