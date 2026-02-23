@@ -70,5 +70,17 @@
         "hash": "28a554e028a554e028a554e028a554e0",
         "created_at": "2026-02-23T11:25:17.893Z",
         "updated_at": "2026-02-23T11:25:17.893Z"
+    },
+    {
+        "id": "e1031f08-3141-4ca2-a67e-b207c2c33dfb",
+        "plugin": "obsidian-icon-folder",
+        "language": "zh-cn",
+        "version": "2.14.7",
+        "supported_versions": "2.14.7",
+        "title": "Iconize",
+        "description": "",
+        "hash": "09b4d86309b4d86309b4d86309b4d863",
+        "created_at": "2026-02-23T11:26:04.969Z",
+        "updated_at": "2026-02-23T11:26:04.969Z"
     }
 ]
