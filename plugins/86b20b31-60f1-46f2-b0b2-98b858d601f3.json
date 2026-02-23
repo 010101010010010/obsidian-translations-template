@@ -1,0 +1,117 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-style-settings",
+        "version": "1.0.0",
+        "title": "Style Settings",
+        "description": "Style Settings Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "1.0.9",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error: Style Settings locale not found",
+            "target": "Error: Style Settings locale not found"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Style Settings | Failed to render section",
+            "target": "Style Settings | Failed to render section"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Import an entire or partial configuration. Warning: this may override existing settings",
+            "target": "Import an entire or partial configuration. Warning: this may override existing settings"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Import style setting",
+            "target": "Import style setting"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Paste config here...",
+            "target": "Paste config here..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Search Style Settings...",
+            "target": "Search Style Settings..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Reset all settings to default",
+            "target": "Reset all settings to default"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Export settings",
+            "target": "Export settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Show style settings view",
+            "target": "Show style settings view"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Style Settings",
+            "target": "Style Settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Copy to clipboard",
+            "target": "Copy to clipboard"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Error importing config",
+            "target": "Error importing config"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Import from file",
+            "target": "Import from file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Default (light): ",
+            "target": "Default (light): "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Default (dark): ",
+            "target": "Default (dark): "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "No style settings found",
+            "target": "No style settings found"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Click here for details and examples.",
+            "target": "Click here for details and examples."
+        }
+    ],
+    "regex": []
+}
