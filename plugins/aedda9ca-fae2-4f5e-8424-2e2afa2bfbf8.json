@@ -1,0 +1,273 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "table-editor-obsidian",
+        "version": "1.0.0",
+        "title": "Advanced Tables",
+        "description": "Advanced Tables Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "0.22.1",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "appendText",
+            "source": "If this plugin adds value for you and you would like to help support continued development, please use the buttons below:",
+            "target": "If this plugin adds value for you and you would like to help support continued development, please use the buttons below:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "loading markdown-table-editor plugin",
+            "target": "loading markdown-table-editor plugin"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Requires restart of Obsidian. If enabled, when the cursor is in a table, enter advances to the next row. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.",
+            "target": "Requires restart of Obsidian. If enabled, when the cursor is in a table, enter advances to the next row. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Requires restart of Obsidian. If enabled, when the cursor is in a table, tab/shift+tab navigate between cells. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.",
+            "target": "Requires restart of Obsidian. If enabled, when the cursor is in a table, tab/shift+tab navigate between cells. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "If enabled, table cells will have spaces added to match the width of the longest cell in the column.",
+            "target": "If enabled, table cells will have spaces added to match the width of the longest cell in the column."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "If enabled, a button which opens the table controls toolbar will be added to the Obsidian sidebar. The toolbar can also be opened with a Hotkey. Changes only take effect on reload.",
+            "target": "If enabled, a button which opens the table controls toolbar will be added to the Obsidian sidebar. The toolbar can also be opened with a Hotkey. Changes only take effect on reload."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Bind enter to table navigation",
+            "target": "Bind enter to table navigation"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Bind tab to table navigation",
+            "target": "Bind tab to table navigation"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Pad cell width using spaces",
+            "target": "Pad cell width using spaces"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Show icon in sidebar",
+            "target": "Show icon in sidebar"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Include table headers",
+            "target": "Include table headers"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Advanced Tables",
+            "target": "Advanced Tables"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Align:",
+            "target": "Align:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Move:",
+            "target": "Move:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Edit:",
+            "target": "Edit:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Sort/F:",
+            "target": "Sort/F:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Misc:",
+            "target": "Misc:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Advanced Tables: Unable to determine current editor.",
+            "target": "Advanced Tables: Unable to determine current editor."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Advanced Tables: Cursor must be in a table.",
+            "target": "Advanced Tables: Cursor must be in a table."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Advanced Tables: Next row also bound to enter. Possibly producing double actions. See Advanced Tables settings.",
+            "target": "Advanced Tables: Next row also bound to enter. Possibly producing double actions. See Advanced Tables settings."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Advanced Tables: Next cell also bound to tab. Possibly producing double actions. See Advanced Tables settings.",
+            "target": "Advanced Tables: Next cell also bound to tab. Possibly producing double actions. See Advanced Tables settings."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Advanced Tables: Previous cell also bound to shift+tab. Possibly producing double actions. See Advanced Tables settings.",
+            "target": "Advanced Tables: Previous cell also bound to shift+tab. Possibly producing double actions. See Advanced Tables settings."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Go to next row",
+            "target": "Go to next row"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Go to next cell",
+            "target": "Go to next cell"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Go to previous cell",
+            "target": "Go to previous cell"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Format table at the cursor",
+            "target": "Format table at the cursor"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Format all tables in this file",
+            "target": "Format all tables in this file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Insert column before current",
+            "target": "Insert column before current"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Insert row before current",
+            "target": "Insert row before current"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Move cursor out of table",
+            "target": "Move cursor out of table"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Left align column",
+            "target": "Left align column"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Center align column",
+            "target": "Center align column"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Right align column",
+            "target": "Right align column"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Move column left",
+            "target": "Move column left"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Move column right",
+            "target": "Move column right"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Move row up",
+            "target": "Move row up"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Move row down",
+            "target": "Move row down"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Delete column",
+            "target": "Delete column"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Delete row",
+            "target": "Delete row"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Sort rows ascending",
+            "target": "Sort rows ascending"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Sort rows descending",
+            "target": "Sort rows descending"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Evaluate table formulas",
+            "target": "Evaluate table formulas"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Open table controls toolbar",
+            "target": "Open table controls toolbar"
+        }
+    ],
+    "regex": []
+}
