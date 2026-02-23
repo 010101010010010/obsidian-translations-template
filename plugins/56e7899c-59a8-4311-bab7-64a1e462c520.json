@@ -3,9 +3,9 @@
     "metadata": {
         "plugin": "obsidian-excalidraw-plugin",
         "version": "1.0.0",
-        "title": "Excalidraw",
-        "description": "Excalidraw Localization & Tweaks",
-        "language": "",
+        "title": "Excalidraw的中文翻译",
+        "description": "测试测试测试测试",
+        "language": "zh-cn",
         "supportedVersions": "2.19.2",
         "author": ""
     },
