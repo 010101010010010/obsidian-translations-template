@@ -1,0 +1,2949 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "copilot",
+        "version": "1.0.0",
+        "title": "Copilot",
+        "description": "Copilot Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "3.1.5",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error exporting batch:",
+            "target": "Error exporting batch:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "This browser lacks typed array (Uint8Array) support which is required by `buffer` v5.x. Use `buffer` v4.x if you require old browser support.",
+            "target": "This browser lacks typed array (Uint8Array) support which is required by `buffer` v5.x. Use `buffer` v4.x if you require old browser support."
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Encryption failed:",
+            "target": "Encryption failed:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Decryption failed:",
+            "target": "Decryption failed:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported",
+            "target": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Could not parse message into JSON:",
+            "target": "Could not parse message into JSON:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "From chunk:",
+            "target": "From chunk:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error parsing function arguments",
+            "target": "Error parsing function arguments"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Caught error in getAllPluginsByHook:",
+            "target": "Caught error in getAllPluginsByHook:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error saving database:",
+            "target": "Error saving database:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error loading database:",
+            "target": "Error loading database:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error clearing storage:",
+            "target": "Error clearing storage:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error getting vector length:",
+            "target": "Error getting vector length:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Batch processing error:",
+            "target": "Batch processing error:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Fatal error during indexing:",
+            "target": "Fatal error during indexing:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to initialize vector store:",
+            "target": "Failed to initialize vector store:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error in rewriteQuery:",
+            "target": "Error in rewriteQuery:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "\nQuery:",
+            "target": "\nQuery:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error calling tool:",
+            "target": "Error calling tool:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Resetting default model. No model configuration found for: ",
+            "target": "Resetting default model. No model configuration found for: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "setChain failed: No chat model set.",
+            "target": "setChain failed: No chat model set."
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Chat chain not initialized",
+            "target": "Chat chain not initialized"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "in not contained inside",
+            "target": "in not contained inside"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "aria-hidden: cannot operate on ",
+            "target": "aria-hidden: cannot operate on "
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error refreshing vault index:",
+            "target": "Error refreshing vault index:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error force reindexing vault:",
+            "target": "Error force reindexing vault:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "New LLM chain created.",
+            "target": "New LLM chain created."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Input Question: ",
+            "target": "Input Question: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Formatted Chat History: ",
+            "target": "Formatted Chat History: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Standalone Question: ",
+            "target": "Standalone Question: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Failed to parse error response as JSON",
+            "target": "Failed to parse error response as JSON"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Getting text from response",
+            "target": "Getting text from response"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Failed to get text from error response",
+            "target": "Failed to get text from error response"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "[WARNING]: Received non-string content from OpenAI. This is currently not supported.",
+            "target": "[WARNING]: Received non-string content from OpenAI. This is currently not supported."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Saved all partitions",
+            "target": "Saved all partitions"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Copilot Plus: Triggering reindex for file ",
+            "target": "Copilot Plus: Triggering reindex for file "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Copilot index checkpoint save completed.",
+            "target": "Copilot index checkpoint save completed."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "No files to index after filter change, stopping indexing",
+            "target": "No files to index after filter change, stopping indexing"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Total files to index:",
+            "target": "Total files to index:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Files to index:",
+            "target": "Files to index:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Indexing cancelled by user",
+            "target": "Indexing cancelled by user"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Status Code:",
+            "target": "Status Code:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "No chunks found for query:",
+            "target": "No chunks found for query:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "*** HYBRID RETRIEVER DEBUG INFO: ***",
+            "target": "*** HYBRID RETRIEVER DEBUG INFO: ***"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "\nOriginal Query: ",
+            "target": "\nOriginal Query: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Rewritten Query: ",
+            "target": "Rewritten Query: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "\nExplicit Chunks: ",
+            "target": "\nExplicit Chunks: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Orama Chunks: ",
+            "target": "Orama Chunks: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Combined Chunks: ",
+            "target": "Combined Chunks: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Max Orama Score: ",
+            "target": "Max Orama Score: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Reranked Chunks: ",
+            "target": "Reranked Chunks: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "No reranking applied.",
+            "target": "No reranking applied."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Tag only query detected, setting textWeight to 1 and vectorWeight to 0.",
+            "target": "Tag only query detected, setting textWeight to 1 and vectorWeight to 0."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Output:",
+            "target": "Output:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "New Vault QA chain with hybrid retriever created for entire vault",
+            "target": "New Vault QA chain with hybrid retriever created for entire vault"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Set chain:",
+            "target": "Set chain:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "No hits found for note:",
+            "target": "No hits found for note:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Message regenerated successfully",
+            "target": "Message regenerated successfully"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Select a custom command to apply...",
+            "target": "Select a custom command to apply..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Thanks for being a Copilot Plus user 👋",
+            "target": "Thanks for being a Copilot Plus user 👋"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Edit Command",
+            "target": "Edit Command"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Download YouTube Script (plus)",
+            "target": "Download YouTube Script (plus)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Select File",
+            "target": "Select File"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Add selection to chat context",
+            "target": "Add selection to chat context"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Trigger quick command",
+            "target": "Trigger quick command"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Welcome to Copilot Plus 🚀",
+            "target": "Welcome to Copilot Plus 🚀"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Add Extension",
+            "target": "Add Extension"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Add Custom Pattern",
+            "target": "Add Custom Pattern"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Unexpected error in cache refresh loop:",
+            "target": "Unexpected error in cache refresh loop:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "You have enabled OTEL export via the `OTEL_ENABLED` or `LANGSMITH_OTEL_ENABLED` environment variable, but have not initialized the required OTEL instances. Please add:\n```\nimport { initializeOTEL } from \"langsmith/experimental/otel/setup\";\ninitializeOTEL();\n```\nat the beginning of your code.",
+            "target": "You have enabled OTEL export via the `OTEL_ENABLED` or `LANGSMITH_OTEL_ENABLED` environment variable, but have not initialized the required OTEL instances. Please add:\n```\nimport { initializeOTEL } from \"langsmith/experimental/otel/setup\";\ninitializeOTEL();\n```\nat the beginning of your code."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "[WARNING]: When tracing in manual flush mode, you must call `await client.flush()` manually to submit trace batches.",
+            "target": "[WARNING]: When tracing in manual flush mode, you must call `await client.flush()` manually to submit trace batches."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Invalid LANGSMITH_RUNS_ENDPOINTS – must be valid JSON array of objects with api_url and api_key properties, or object mapping url->apiKey",
+            "target": "Invalid LANGSMITH_RUNS_ENDPOINTS – must be valid JSON array of objects with api_url and api_key properties, or object mapping url->apiKey"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "setSelf function cannot be used with read-only atom",
+            "target": "setSelf function cannot be used with read-only atom"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "setSelf function cannot be called in sync",
+            "target": "setSelf function cannot be called in sync"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Detected multiple Jotai instances. It may cause unexpected behavior with the default store. https://github.com/pmndrs/jotai/discussions/2044",
+            "target": "Detected multiple Jotai instances. It may cause unexpected behavior with the default store. https://github.com/pmndrs/jotai/discussions/2044"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Missing timestamp format, parsing value with Date constructor:",
+            "target": "Missing timestamp format, parsing value with Date constructor:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Missing timestamp format, using epoch seconds",
+            "target": "Missing timestamp format, using epoch seconds"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Failed to calculate number of tokens, falling back to approximate count",
+            "target": "Failed to calculate number of tokens, falling back to approximate count"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "response.functionCall() is deprecated. Use response.functionCalls() instead.",
+            "target": "response.functionCall() is deprecated. Use response.functionCalls() instead."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "invalid json: ",
+            "target": "invalid json: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Error getting userIgnoreFilters from Obsidian config",
+            "target": "Error getting userIgnoreFilters from Obsidian config"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Database not initialized. Some features may be limited.",
+            "target": "Database not initialized. Some features may be limited."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "The \"tool_calls\" field on a message is only respected if content is a string.",
+            "target": "The \"tool_calls\" field on a message is only respected if content is a string."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Unexpected rewrittenQuery format. Falling back to original query.",
+            "target": "Unexpected rewrittenQuery format. Falling back to original query."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Search results or hits are undefined",
+            "target": "Search results or hits are undefined"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Invalid hit or document in search results",
+            "target": "Invalid hit or document in search results"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "NaN/invalid score detected:",
+            "target": "NaN/invalid score detected:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Failed to read note content:",
+            "target": "Failed to read note content:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Failed to fetch relevant notes:",
+            "target": "Failed to fetch relevant notes:"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active leaf found.",
+            "target": "No active leaf found."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to open a markdown view.",
+            "target": "Failed to open a markdown view."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Message inserted into the active note.",
+            "target": "Message inserted into the active note."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Plus-only model, please consider upgrading to Plus to access it.",
+            "target": "Plus-only model, please consider upgrading to Plus to access it."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Believer-only model, please consider upgrading to Believer to access it.",
+            "target": "Believer-only model, please consider upgrading to Believer to access it."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Connection successful, but requires CORS to be enabled. Please enable CORS for this model once you add it above.",
+            "target": "Connection successful, but requires CORS to be enabled. Please enable CORS for this model once you add it above."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to initialize Copilot database. Some features may be limited.",
+            "target": "Failed to initialize Copilot database. Some features may be limited."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Local Copilot index cleared successfully.",
+            "target": "Local Copilot index cleared successfully."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "An error occurred while clearing the local Copilot index.",
+            "target": "An error occurred while clearing the local Copilot index."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copilot vault index is up-to-date.",
+            "target": "Copilot vault index is up-to-date."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No valid content to index.",
+            "target": "No valid content to index."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No files to index with current filters",
+            "target": "No files to index with current filters"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Vault is too large for 1 partition, please increase the number of partitions in your Copilot QA settings!",
+            "target": "Vault is too large for 1 partition, please increase the number of partitions in your Copilot QA settings!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Indexing cancelled",
+            "target": "Indexing cancelled"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Indexing completed successfully!",
+            "target": "Indexing completed successfully!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Indexing is disabled on mobile devices",
+            "target": "Indexing is disabled on mobile devices"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to update Copilot index. Please try force reindexing from the command palette.",
+            "target": "Failed to update Copilot index. Please try force reindexing from the command palette."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to create file",
+            "target": "Failed to create file"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Changes applied successfully",
+            "target": "Changes applied successfully"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "An error occurred while executing the tool. Check console for details.",
+            "target": "An error occurred while executing the tool. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active note found.",
+            "target": "No active note found."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Chat engine not ready. Please try again.",
+            "target": "Chat engine not ready. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copied to clipboard",
+            "target": "Copied to clipboard"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Transcript copied to clipboard!",
+            "target": "Transcript copied to clipboard!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to copy to clipboard",
+            "target": "Failed to copy to clipboard"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to insert to note",
+            "target": "Failed to insert to note"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "An error occurred while counting tokens.",
+            "target": "An error occurred while counting tokens."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Quick command is not available in source mode.",
+            "target": "Quick command is not available in source mode."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active editor found.",
+            "target": "No active editor found."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please select some text first. Selected text is required for quick commands.",
+            "target": "Please select some text first. Selected text is required for quick commands."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "An error occurred while building the index.",
+            "target": "An error occurred while building the index."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "An error occurred while rebuilding the index.",
+            "target": "An error occurred while rebuilding the index."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to list indexed files.",
+            "target": "Failed to list indexed files."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active file. Please open a note first.",
+            "target": "No active file. Please open a note first."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "All Copilot caches cleared successfully",
+            "target": "All Copilot caches cleared successfully"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to clear Copilot caches",
+            "target": "Failed to clear Copilot caches"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to create Copilot log file.",
+            "target": "Failed to create Copilot log file."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copilot log cleared.",
+            "target": "Copilot log cleared."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to clear Copilot log file.",
+            "target": "Failed to clear Copilot log file."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No text selected",
+            "target": "No text selected"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active file",
+            "target": "No active file"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Could not determine selection range",
+            "target": "Could not determine selection range"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Web selection is only available on desktop",
+            "target": "Web selection is only available on desktop"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active Web Tab found",
+            "target": "No active Web Tab found"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No text selected in Web Tab",
+            "target": "No text selected in Web Tab"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to get web selection",
+            "target": "Failed to get web selection"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Download YouTube Script (plus) is a Copilot Plus feature",
+            "target": "Download YouTube Script (plus) is a Copilot Plus feature"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to refresh vault index. Check console for details.",
+            "target": "Failed to refresh vault index. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to force reindex vault. Check console for details.",
+            "target": "Failed to force reindex vault. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No project is currently selected to reload.",
+            "target": "No project is currently selected to reload."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to reload project context. Check console for details.",
+            "target": "Failed to reload project context. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No project is currently selected to rebuild.",
+            "target": "No project is currently selected to rebuild."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to force rebuild project context. Check console for details.",
+            "target": "Failed to force rebuild project context. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Vault search enabled for tag query",
+            "target": "Vault search enabled for tag query"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Could not find the current model settings",
+            "target": "Could not find the current model settings"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please fill in all required fields",
+            "target": "Please fill in all required fields"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "This image is already in the context",
+            "target": "This image is already in the context"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "This note is already in the context",
+            "target": "This note is already in the context"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to send message. Please try again.",
+            "target": "Failed to send message. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to save chat as note. Check console for details.",
+            "target": "Failed to save chat as note. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Cannot regenerate the first message.",
+            "target": "Cannot regenerate the first message."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Message not found.",
+            "target": "Message not found."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to regenerate message. Please try again.",
+            "target": "Failed to regenerate message. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to edit message. Please try again.",
+            "target": "Failed to edit message. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to regenerate AI response. Please try again.",
+            "target": "Failed to regenerate AI response. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to delete message. Please try again.",
+            "target": "Failed to delete message. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to load chat history.",
+            "target": "Failed to load chat history."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to update chat title.",
+            "target": "Failed to update chat title."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to delete chat.",
+            "target": "Failed to delete chat."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to load chat.",
+            "target": "Failed to load chat."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to open source file.",
+            "target": "Failed to open source file."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please enter a prompt",
+            "target": "Please enter a prompt"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No messages to save.",
+            "target": "No messages to save."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Existing chat note found - updating it now.",
+            "target": "Existing chat note found - updating it now."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to load chat history. Check console for details.",
+            "target": "Failed to load chat history. Check console for details."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to delete command. Please try again.",
+            "target": "Failed to delete command. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to copy command. Please try again.",
+            "target": "Failed to copy command. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please select a model first",
+            "target": "Please select a model first"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please authorize in your browser, then click 'Complete'",
+            "target": "Please authorize in your browser, then click 'Complete'"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please start authentication first",
+            "target": "Please start authentication first"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "GitHub Copilot connected successfully!",
+            "target": "GitHub Copilot connected successfully!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "GitHub Copilot disconnected",
+            "target": "GitHub Copilot disconnected"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copied to clipboard!",
+            "target": "Copied to clipboard!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error: Format contains illegal characters (\\/:*?\"<>|)",
+            "target": "Error: Format contains illegal characters (\\/:*?\"<>|)"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Model verification successful!",
+            "target": "Model verification successful!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Could not find model to update",
+            "target": "Could not find model to update"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Chat models refreshed successfully",
+            "target": "Chat models refreshed successfully"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Plugin reloaded successfully.",
+            "target": "Plugin reloaded successfully."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to reload the plugin. Please reload manually.",
+            "target": "Failed to reload the plugin. Please reload manually."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No chat history found.",
+            "target": "No chat history found."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Chat title updated.",
+            "target": "Chat title updated."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Chat deleted.",
+            "target": "Chat deleted."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "aria-label",
+            "source": "Clear search",
+            "target": "Clear search"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "aria-label",
+            "source": "Chat input",
+            "target": "Chat input"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "aria-label",
+            "source": "Close Current Project",
+            "target": "Close Current Project"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "aria-label",
+            "source": "close project mode",
+            "target": "close project mode"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "# Autonomous Agent Mode\n\nYou are now in autonomous agent mode. You can use tools to gather information and complete tasks step by step.\n\nWhen you need to use a tool, format it EXACTLY like this:\n<use_tool>\n<name>tool_name_here</name>\n<parameter_name>value</parameter_name>\n<another_parameter>[\"array\", \"values\"]</another_parameter>\n</use_tool>\n\nIMPORTANT: Use the EXACT parameter names as shown in the tool descriptions below. Do NOT use generic names like \"param1\" or \"param\".\n",
+            "target": "# Autonomous Agent Mode\n\nYou are now in autonomous agent mode. You can use tools to gather information and complete tasks step by step.\n\nWhen you need to use a tool, format it EXACTLY like this:\n<use_tool>\n<name>tool_name_here</name>\n<parameter_name>value</parameter_name>\n<another_parameter>[\"array\", \"values\"]</another_parameter>\n</use_tool>\n\nIMPORTANT: Use the EXACT parameter names as shown in the tool descriptions below. Do NOT use generic names like \"param1\" or \"param\".\n"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Translate {} into Chinese:\n    1. Preserve the meaning and tone\n    2. Maintain appropriate cultural context\n    3. Keep formatting and structure\n    Return only the translated text.",
+            "target": "Translate {} into Chinese:\n    1. Preserve the meaning and tone\n    2. Maintain appropriate cultural context\n    3. Keep formatting and structure\n    Return only the translated text."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Create a bullet-point summary of {}. Each bullet point should capture a key point. Return only the bullet-point summary.",
+            "target": "Create a bullet-point summary of {}. Each bullet point should capture a key point. Return only the bullet-point summary."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Simplify {} to a 6th-grade reading level (ages 11-12). Use simple sentences, common words, and clear explanations. Maintain the original key concepts. Return only the simplified text.",
+            "target": "Simplify {} to a 6th-grade reading level (ages 11-12). Use simple sentences, common words, and clear explanations. Maintain the original key concepts. Return only the simplified text."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Explain {} in simple terms that a 5-year-old would understand:\n    1. Use basic vocabulary\n    2. Include simple analogies\n    3. Break down complex concepts\n    Return only the simplified explanation.",
+            "target": "Explain {} in simple terms that a 5-year-old would understand:\n    1. Use basic vocabulary\n    2. Include simple analogies\n    3. Break down complex concepts\n    Return only the simplified explanation."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Expand {} to twice its length by:\n    1. Adding relevant details and examples\n    2. Elaborating on key points\n    3. Maintaining the original tone and style\n    Return only the expanded text.",
+            "target": "Expand {} to twice its length by:\n    1. Adding relevant details and examples\n    2. Elaborating on key points\n    3. Maintaining the original tone and style\n    Return only the expanded text."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Generate a hierarchical table of contents for {}. Use appropriate heading levels (H1, H2, H3, etc.). Include page numbers if present. Return only the table of contents.",
+            "target": "Generate a hierarchical table of contents for {}. Use appropriate heading levels (H1, H2, H3, etc.). Include page numbers if present. Return only the table of contents."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Create a glossary of important terms, concepts, and phrases from {}. Format each entry as \"Term: Definition\". Sort entries alphabetically. Return only the glossary.",
+            "target": "Create a glossary of important terms, concepts, and phrases from {}. Format each entry as \"Term: Definition\". Sort entries alphabetically. Return only the glossary."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Convert {} into a Twitter thread following these rules:\n    1. Each tweet must be under 240 characters\n    2. Start with \"THREAD START\" on its own line\n    3. Separate tweets with \"\n\n---\n\n\"\n    4. End with \"THREAD END\" on its own line\n    5. Make content engaging and clear\n    Return only the formatted thread.",
+            "target": "Convert {} into a Twitter thread following these rules:\n    1. Each tweet must be under 240 characters\n    2. Start with \"THREAD START\" on its own line\n    3. Separate tweets with \"\n\n---\n\n\"\n    4. End with \"THREAD END\" on its own line\n    5. Make content engaging and clear\n    Return only the formatted thread."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Note has not been indexed",
+            "target": "Note has not been indexed"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "content",
+            "source": "Manage your projects with different contexts and configurations.",
+            "target": "Manage your projects with different contexts and configurations."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Africa (Cape Town)",
+            "target": "Africa (Cape Town)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Hong Kong)",
+            "target": "Asia Pacific (Hong Kong)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Taipei)",
+            "target": "Asia Pacific (Taipei)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Tokyo)",
+            "target": "Asia Pacific (Tokyo)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Seoul)",
+            "target": "Asia Pacific (Seoul)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Osaka)",
+            "target": "Asia Pacific (Osaka)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Mumbai)",
+            "target": "Asia Pacific (Mumbai)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Hyderabad)",
+            "target": "Asia Pacific (Hyderabad)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Singapore)",
+            "target": "Asia Pacific (Singapore)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Sydney)",
+            "target": "Asia Pacific (Sydney)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Jakarta)",
+            "target": "Asia Pacific (Jakarta)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Melbourne)",
+            "target": "Asia Pacific (Melbourne)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Malaysia)",
+            "target": "Asia Pacific (Malaysia)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (New Zealand)",
+            "target": "Asia Pacific (New Zealand)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Asia Pacific (Thailand)",
+            "target": "Asia Pacific (Thailand)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws global region",
+            "target": "aws global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Canada (Central)",
+            "target": "Canada (Central)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Canada West (Calgary)",
+            "target": "Canada West (Calgary)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Frankfurt)",
+            "target": "Europe (Frankfurt)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Zurich)",
+            "target": "Europe (Zurich)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Stockholm)",
+            "target": "Europe (Stockholm)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Milan)",
+            "target": "Europe (Milan)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Spain)",
+            "target": "Europe (Spain)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Ireland)",
+            "target": "Europe (Ireland)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (London)",
+            "target": "Europe (London)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Europe (Paris)",
+            "target": "Europe (Paris)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Israel (Tel Aviv)",
+            "target": "Israel (Tel Aviv)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Middle East (UAE)",
+            "target": "Middle East (UAE)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Middle East (Bahrain)",
+            "target": "Middle East (Bahrain)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Mexico (Central)",
+            "target": "Mexico (Central)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "South America (Sao Paulo)",
+            "target": "South America (Sao Paulo)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US East (N. Virginia)",
+            "target": "US East (N. Virginia)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US East (Ohio)",
+            "target": "US East (Ohio)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US West (N. California)",
+            "target": "US West (N. California)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US West (Oregon)",
+            "target": "US West (Oregon)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws-cn global region",
+            "target": "aws-cn global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "China (Beijing)",
+            "target": "China (Beijing)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "China (Ningxia)",
+            "target": "China (Ningxia)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "EU (Germany)",
+            "target": "EU (Germany)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws-iso global region",
+            "target": "aws-iso global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US ISO East",
+            "target": "US ISO East"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US ISO WEST",
+            "target": "US ISO WEST"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws-iso-b global region",
+            "target": "aws-iso-b global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US ISOB East (Ohio)",
+            "target": "US ISOB East (Ohio)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US ISOB West",
+            "target": "US ISOB West"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws-iso-e global region",
+            "target": "aws-iso-e global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "EU ISOE West",
+            "target": "EU ISOE West"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws-iso-f global region",
+            "target": "aws-iso-f global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US ISOF EAST",
+            "target": "US ISOF EAST"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "US ISOF SOUTH",
+            "target": "US ISOF SOUTH"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "aws-us-gov global region",
+            "target": "aws-us-gov global region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "AWS GovCloud (US-East)",
+            "target": "AWS GovCloud (US-East)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "AWS GovCloud (US-West)",
+            "target": "AWS GovCloud (US-West)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "AWS SDK for JavaScript Cognito Identity Client for Node.js, Browser and React Native",
+            "target": "AWS SDK for JavaScript Cognito Identity Client for Node.js, Browser and React Native"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Nested clients for AWS SDK packages.",
+            "target": "Nested clients for AWS SDK packages."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Request to write content to a file at the specified path and show the changes in a Change Preview UI.\n\n      # Steps to find the the target path\n      1. Extract the target file information from user message and find out the file path from the context.\n      2. If target file is not specified, use the active note as the target file.\n      3. If still failed to find the target file or the file path, ask the user to specify the target file.\n      ",
+            "target": "Request to write content to a file at the specified path and show the changes in a Change Preview UI.\n\n      # Steps to find the the target path\n      1. Extract the target file information from user message and find out the file path from the context.\n      2. If target file is not specified, use the active note as the target file.\n      3. If still failed to find the target file or the file path, ask the user to specify the target file.\n      "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Request to replace sections of content in an existing file using SEARCH/REPLACE blocks that define exact changes to specific parts of the file. This tool should be used when you need to make targeted changes to specific parts of a LARGE file.",
+            "target": "Request to replace sections of content in an existing file using SEARCH/REPLACE blocks that define exact changes to specific parts of the file. This tool should be used when you need to make targeted changes to specific parts of a LARGE file."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Get the file tree as a nested structure of folders and files",
+            "target": "Get the file tree as a nested structure of folders and files"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Read a single note in search v3 sized chunks. Use only when you already know the exact note path and need its contents.",
+            "target": "Read a single note in search v3 sized chunks. Use only when you already know the exact note path and need its contents."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Search for notes using lexical/keyword-based search",
+            "target": "Search for notes using lexical/keyword-based search"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Search for notes based on the time range and query",
+            "target": "Search for notes based on the time range and query"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Index the vault to the Copilot index",
+            "target": "Index the vault to the Copilot index"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Search the web for information",
+            "target": "Search the web for information"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Get the list of tags in the vault with occurrence statistics.",
+            "target": "Get the list of tags in the vault with occurrence statistics."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Get the current time in local timezone or at a specified UTC offset. Returns epoch time, ISO string, and formatted strings.",
+            "target": "Get the current time in local timezone or at a specified UTC offset. Returns epoch time, ISO string, and formatted strings."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Convert natural language time expressions to date ranges for use with localSearch",
+            "target": "Convert natural language time expressions to date ranges for use with localSearch"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Convert a Unix timestamp (in seconds or milliseconds) to detailed time information",
+            "target": "Convert a Unix timestamp (in seconds or milliseconds) to detailed time information"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Convert a specific time from one timezone to another using UTC offsets",
+            "target": "Convert a specific time from one timezone to another using UTC offsets"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Get transcripts of YouTube videos when the user provides YouTube URLs",
+            "target": "Get transcripts of YouTube videos when the user provides YouTube URLs"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Browse vault file structure",
+            "target": "Browse vault file structure"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "List vault tags with occurrence statistics",
+            "target": "List vault tags with occurrence statistics"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Search through your vault notes",
+            "target": "Search through your vault notes"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Search the INTERNET (NOT vault notes) when user explicitly asks for web/online information",
+            "target": "Search the INTERNET (NOT vault notes) when user explicitly asks for web/online information"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Get the current time in any timezone",
+            "target": "Get the current time in any timezone"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Convert epoch timestamp to human-readable format",
+            "target": "Convert epoch timestamp to human-readable format"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Convert time expressions to date ranges",
+            "target": "Convert time expressions to date ranges"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Convert time between different timezones",
+            "target": "Convert time between different timezones"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Read a specific note in sequential chunks using its own line-chunking logic.",
+            "target": "Read a specific note in sequential chunks using its own line-chunking logic."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Create or modify files in your vault",
+            "target": "Create or modify files in your vault"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Make targeted changes to existing files using SEARCH/REPLACE blocks",
+            "target": "Make targeted changes to existing files using SEARCH/REPLACE blocks"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Get transcripts from YouTube videos",
+            "target": "Get transcripts from YouTube videos"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Leave it blank, unless you are using a proxy.",
+            "target": "Leave it blank, unless you are using a proxy."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Defaults to us-east-1 when left blank. With inference profiles (global., us., eu., apac.), region is auto-managed.",
+            "target": "Defaults to us-east-1 when left blank. With inference profiles (global., us., eu., apac.), region is auto-managed."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Briefly describe the purpose and goals of the project",
+            "target": "Briefly describe the purpose and goals of the project"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Custom instructions for how the AI should behave in this project context",
+            "target": "Custom instructions for how the AI should behave in this project context"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Define patterns to include specific files, folders or tags (specified in the note property) in the project context.",
+            "target": "Define patterns to include specific files, folders or tags (specified in the note property) in the project context."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Folder where custom prompts are stored",
+            "target": "Folder where custom prompts are stored"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Process variables like {activenote}, {foldername}, or {#tag} in prompts. Disable for raw prompts.",
+            "target": "Process variables like {activenote}, {foldername}, or {#tag} in prompts. Disable for raw prompts."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Sort order for slash command menu prompts",
+            "target": "Sort order for slash command menu prompts"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enable encryption for the API keys.",
+            "target": "Enable encryption for the API keys."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Debug mode will log some debug message to the console.",
+            "target": "Debug mode will log some debug message to the console."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Add the selected model to your models list. After adding, check the Model Tab.",
+            "target": "Add the selected model to your models list. After adding, check the Model Tab."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Add the currently selected model to model List.",
+            "target": "Add the currently selected model to model List."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Choose where to open the plugin",
+            "target": "Choose where to open the plugin"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Automatically add the active note or Web Viewer tab (Desktop only) to chat context when sending messages.",
+            "target": "Automatically add the active note or Web Viewer tab (Desktop only) to chat context when sending messages."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Automatically add selected text from notes or Web Viewer (Desktop only) to chat context. Disable to use manual command instead.",
+            "target": "Automatically add selected text from notes or Web Viewer (Desktop only) to chat context. Disable to use manual command instead."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Show suggested prompts in the chat view",
+            "target": "Show suggested prompts in the chat view"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Show relevant notes in the chat view",
+            "target": "Show relevant notes in the chat view"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Automatically saves the chat after every user message and AI response.",
+            "target": "Automatically saves the chat after every user message and AI response."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "When enabled, uses an AI model to generate a concise title for saved chat notes. When disabled, uses the first 10 words of the first user message.",
+            "target": "When enabled, uses an AI model to generate a concise title for saved chat notes. When disabled, uses the first 10 words of the first user message."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The default folder name where chat conversations will be saved. Default is 'copilot/copilot-conversations'",
+            "target": "The default folder name where chat conversations will be saved. Default is 'copilot/copilot-conversations'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The default tag to be used when saving a conversation. Default is 'ai-conversations'",
+            "target": "The default tag to be used when saving a conversation. Default is 'ai-conversations'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Sort order for the chat history list",
+            "target": "Sort order for the chat history list"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Sort order for the project list",
+            "target": "Sort order for the project list"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Maximum number of reasoning iterations the autonomous agent can perform. Higher values allow for more complex reasoning but may take longer.",
+            "target": "Maximum number of reasoning iterations the autonomous agent can perform. Higher values allow for more complex reasoning but may take longer."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enable autonomous agent mode in Plus chat. The AI will reason step-by-step and decide which tools to use automatically, improving response quality for complex queries.",
+            "target": "Enable autonomous agent mode in Plus chat. The AI will reason step-by-step and decide which tools to use automatically, improving response quality for complex queries."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "When enabled, Copilot references your recent conversation history to provide more contextually relevant responses. All history data is stored locally in your vault.",
+            "target": "When enabled, Copilot references your recent conversation history to provide more contextually relevant responses. All history data is stored locally in your vault."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enter OpenAI Organization ID if applicable",
+            "target": "Enter OpenAI Organization ID if applicable"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "This is your actual model, no need to pass a model name separately.",
+            "target": "This is your actual model, no need to pass a model name separately."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The number of previous conversation turns to include in the context. Default is 15 turns, i.e. 30 messages.",
+            "target": "The number of previous conversation turns to include in the context. Default is 15 turns, i.e. 30 messages."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Automatically summarize context when it exceeds this token count. Set to maximum to make it less aggressive.",
+            "target": "Automatically summarize context when it exceeds this token count. Set to maximum to make it less aggressive."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "When enabled, AI responses will include footnote-style citations within the text and numbered sources at the end. This is an experimental feature and may not work as expected for all models.",
+            "target": "When enabled, AI responses will include footnote-style citations within the text and numbered sources at the end. This is an experimental feature and may not work as expected for all models."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Copilot goes through your vault to find relevant notes and passes the top N to the LLM. Default for N is 15. Increase if you want more notes included in the answer generation step.",
+            "target": "Copilot goes through your vault to find relevant notes and passes the top N to the LLM. Default for N is 15. Increase if you want more notes included in the answer generation step."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Number of partitions for Copilot index. Default is 1. Increase if you have issues indexing large vaults. Warning: Changes require clearing and rebuilding the index!",
+            "target": "Number of partitions for Copilot index. Default is 1. Increase if you have issues indexing large vaults. Warning: Changes require clearing and rebuilding the index!"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enable folder and graph-based relevance boosts for lexical search results. When disabled, provides pure keyword-based relevance scoring without folder or connection-based adjustments.",
+            "target": "Enable folder and graph-based relevance boosts for lexical search results. When disabled, provides pure keyword-based relevance scoring without folder or connection-based adjustments."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "When enabled, Copilot index won't be loaded on mobile devices to save resources. Only chat mode will be available. Any existing index from desktop sync will be preserved. Uncheck to enable QA modes on mobile.",
+            "target": "When enabled, Copilot index won't be loaded on mobile devices to save resources. Only chat mode will be available. Any existing index from desktop sync will be preserved. Uncheck to enable QA modes on mobile."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Malformed args.",
+            "target": "Malformed args."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "String does not match pattern.",
+            "target": "String does not match pattern."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "URL is required",
+            "target": "URL is required"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Invalid YouTube video ID",
+            "target": "Invalid YouTube video ID"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Invalid YouTube URL format",
+            "target": "Invalid YouTube URL format"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Invalid Configuration: FIPS and custom endpoint are not supported",
+            "target": "Invalid Configuration: FIPS and custom endpoint are not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Invalid Configuration: Dualstack and custom endpoint are not supported",
+            "target": "Invalid Configuration: Dualstack and custom endpoint are not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "FIPS and DualStack are enabled, but this partition does not support one or both",
+            "target": "FIPS and DualStack are enabled, but this partition does not support one or both"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "FIPS is enabled but this partition does not support FIPS",
+            "target": "FIPS is enabled but this partition does not support FIPS"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "DualStack is enabled but this partition does not support DualStack",
+            "target": "DualStack is enabled but this partition does not support DualStack"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Invalid Configuration: Missing Region",
+            "target": "Invalid Configuration: Missing Region"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "No chat model available, skipping save",
+            "target": "No chat model available, skipping save"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Web tab not found or closed",
+            "target": "Web tab not found or closed"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Web tab content not loaded yet",
+            "target": "Web tab content not loaded yet"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "API key not configured",
+            "target": "API key not configured"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Provider does not support model listing",
+            "target": "Provider does not support model listing"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Provider is required to build a curl command.",
+            "target": "Provider is required to build a curl command."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Azure OpenAI",
+            "target": "Azure OpenAI"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "LM Studio",
+            "target": "LM Studio"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "OpenAI Format",
+            "target": "OpenAI Format"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Amazon Bedrock",
+            "target": "Amazon Bedrock"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Copilot Plus",
+            "target": "Copilot Plus"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "GitHub Copilot",
+            "target": "GitHub Copilot"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Autonomous agent introduction",
+            "target": "Autonomous agent introduction"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Tool XML parameter descriptions",
+            "target": "Tool XML parameter descriptions"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Tool usage guidelines",
+            "target": "Tool usage guidelines"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Tool-specific instructions",
+            "target": "Tool-specific instructions"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "General guidelines",
+            "target": "General guidelines"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "GPT-specific guidance",
+            "target": "GPT-specific guidance"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Claude thinking model guidance",
+            "target": "Claude thinking model guidance"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Original user message",
+            "target": "Original user message"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Token limit",
+            "target": "Token limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Frequency Penalty",
+            "target": "Frequency Penalty"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Reasoning Effort",
+            "target": "Reasoning Effort"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Model Name",
+            "target": "Model Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Base URL",
+            "target": "Base URL"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Region (optional)",
+            "target": "Region (optional)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "API Key",
+            "target": "API Key"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Project Name",
+            "target": "Project Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Default Model",
+            "target": "Default Model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Token Limit",
+            "target": "Token Limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Web URLs",
+            "target": "Web URLs"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "YouTube URLs",
+            "target": "YouTube URLs"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Select Model",
+            "target": "Select Model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Sidebar View",
+            "target": "Sidebar View"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Shift + Enter",
+            "target": "Shift + Enter"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "OpenAI Organization ID",
+            "target": "OpenAI Organization ID"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Instance Name",
+            "target": "Instance Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Deployment Name",
+            "target": "Deployment Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "API Version",
+            "target": "API Version"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "link",
+            "source": "tw-text-accent tw-underline-offset-4 hover:tw-underline",
+            "target": "tw-text-accent tw-underline-offset-4 hover:tw-underline"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Unexpected discriminant value",
+            "target": "Unexpected discriminant value"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Unexpected: neither Buffer nor TextDecoder are available as globals. Please report this error.",
+            "target": "Unexpected: neither Buffer nor TextDecoder are available as globals. Please report this error."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Please specify a bearer by either passing it in to the constructor or initializing a CO_API_KEY environment variable",
+            "target": "Please specify a bearer by either passing it in to the constructor or initializing a CO_API_KEY environment variable"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Response truncated due to token limit",
+            "target": "Response truncated due to token limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Response truncated due to max_tokens limit",
+            "target": "Response truncated due to max_tokens limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Response truncated due to MAX_TOKENS limit",
+            "target": "Response truncated due to MAX_TOKENS limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "expected a Blob, File or Blob-like object",
+            "target": "expected a Blob, File or Blob-like object"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Provide the note path relative to the vault root without a leading slash.",
+            "target": "Provide the note path relative to the vault root without a leading slash."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Tool executed but returned no result",
+            "target": "Tool executed but returned no result"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Invalid input: User message must be a string",
+            "target": "Invalid input: User message must be a string"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "No YouTube URLs found in the user prompt. URLs must be in the user prompt instead of the context notes.",
+            "target": "No YouTube URLs found in the user prompt. URLs must be in the user prompt instead of the context notes."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Transcript not available. Only English videos with auto transcript enabled are supported",
+            "target": "Transcript not available. Only English videos with auto transcript enabled are supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "An error occurred while transcribing the YouTube video",
+            "target": "An error occurred while transcribing the YouTube video"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Anno Domini",
+            "target": "Anno Domini"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Before Christ",
+            "target": "Before Christ"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "AWS SDK for JavaScript Team",
+            "target": "AWS SDK for JavaScript Team"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Ignore Files",
+            "target": "Ignore Files"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "LM Studio",
+            "target": "LM Studio"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter command name",
+            "target": "Enter command name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter command prompt",
+            "target": "Enter command prompt"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter follow-up instructions...",
+            "target": "Enter follow-up instructions..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter prompt name",
+            "target": "Enter prompt name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Select an option",
+            "target": "Select an option"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Your AI assistant for Obsidian • @ to add context • / for custom prompts",
+            "target": "Your AI assistant for Obsidian • @ to add context • / for custom prompts"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter model name",
+            "target": "Enter model name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Custom display name (optional)",
+            "target": "Custom display name (optional)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter AWS region (e.g. us-east-1)",
+            "target": "Enter AWS region (e.g. us-east-1)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Select a model",
+            "target": "Select a model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter web URLs, one per line",
+            "target": "Enter web URLs, one per line"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter YouTube URLs, one per line",
+            "target": "Enter YouTube URLs, one per line"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Search projects...",
+            "target": "Search projects..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Ask me anything...",
+            "target": "Ask me anything..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter your license key",
+            "target": "Enter your license key"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Select Model",
+            "target": "Select Model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter OpenAI Organization ID if applicable",
+            "target": "Enter OpenAI Organization ID if applicable"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter Azure OpenAI API Instance Name",
+            "target": "Enter Azure OpenAI API Instance Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter Azure OpenAI API Deployment Name",
+            "target": "Enter Azure OpenAI API Deployment Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter Azure OpenAI API Version",
+            "target": "Enter Azure OpenAI API Version"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Select provider",
+            "target": "Select provider"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter the extension (e.g. txt, excalidraw.md)",
+            "target": "Enter the extension (e.g. txt, excalidraw.md)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter the pattern",
+            "target": "Enter the pattern"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Select partitions",
+            "target": "Select partitions"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "subtitle",
+            "source": "Reference notes in your vault",
+            "target": "Reference notes in your vault"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "subtitle",
+            "source": "Reference open browser tabs",
+            "target": "Reference open browser tabs"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "subtitle",
+            "source": "AI tools and commands",
+            "target": "AI tools and commands"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "subtitle",
+            "source": "Reference vault folders",
+            "target": "Reference vault folders"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "success",
+            "source": "clickable-icon tw-bg-modifier-success tw-text-on-accent hover:tw-bg-modifier-success hover:tw-text-on-accent",
+            "target": "clickable-icon tw-bg-modifier-success tw-text-on-accent hover:tw-bg-modifier-success hover:tw-text-on-accent"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "summary",
+            "source": "Summary generation failed",
+            "target": "Summary generation failed"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Untitled Conversation",
+            "target": "Untitled Conversation"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Fix grammar and spelling",
+            "target": "Fix grammar and spelling"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Translate to Chinese",
+            "target": "Translate to Chinese"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Explain like I am 5",
+            "target": "Explain like I am 5"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Make shorter",
+            "target": "Make shorter"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Make longer",
+            "target": "Make longer"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Generate table of contents",
+            "target": "Generate table of contents"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Generate glossary",
+            "target": "Generate glossary"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Rewrite as tweet",
+            "target": "Rewrite as tweet"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Rewrite as tweet thread",
+            "target": "Rewrite as tweet thread"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Clip YouTube Transcript",
+            "target": "Clip YouTube Transcript"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Clip Web Page",
+            "target": "Clip Web Page"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Confirm Delete",
+            "target": "Confirm Delete"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Cancel deletion",
+            "target": "Cancel deletion"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Open the source file",
+            "target": "Open the source file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "delete file",
+            "target": "delete file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "New Chat",
+            "target": "New Chat"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Save Chat as Note",
+            "target": "Save Chat as Note"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Chat History",
+            "target": "Chat History"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Advanced Settings",
+            "target": "Advanced Settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Web Tabs",
+            "target": "Web Tabs"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Active Web Tab",
+            "target": "Active Web Tab"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Active Note",
+            "target": "Active Note"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Show Sources",
+            "target": "Show Sources"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Insert / Replace at cursor",
+            "target": "Insert / Replace at cursor"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Active Note Insights",
+            "target": "Active Note Insights"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Note Link Chat",
+            "target": "Note Link Chat"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Test LLM",
+            "target": "Test LLM"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Vault Q&A",
+            "target": "Vault Q&A"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Copilot Plus",
+            "target": "Copilot Plus"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Ignore Files",
+            "target": "Ignore Files"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Edit Context",
+            "target": "Edit Context"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Close Progress Bar",
+            "target": "Close Progress Bar"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Quick Command",
+            "target": "Quick Command"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Copy command",
+            "target": "Copy command"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Custom Prompts Folder Name",
+            "target": "Custom Prompts Folder Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Custom Prompts Sort Strategy",
+            "target": "Custom Prompts Sort Strategy"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Add new prompt",
+            "target": "Add new prompt"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Enable Encryption",
+            "target": "Enable Encryption"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Debug Mode",
+            "target": "Debug Mode"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Create Log File",
+            "target": "Create Log File"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Copy URL",
+            "target": "Copy URL"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Copy code",
+            "target": "Copy code"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "API Keys",
+            "target": "API Keys"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Default Chat Model",
+            "target": "Default Chat Model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Default Mode",
+            "target": "Default Mode"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Open Plugin In",
+            "target": "Open Plugin In"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Send Shortcut",
+            "target": "Send Shortcut"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Auto-Add Active Content to Context",
+            "target": "Auto-Add Active Content to Context"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Auto-Add Selection to Context",
+            "target": "Auto-Add Selection to Context"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Images in Markdown",
+            "target": "Images in Markdown"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Suggested Prompts",
+            "target": "Suggested Prompts"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Relevant Notes",
+            "target": "Relevant Notes"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Autosave Chat",
+            "target": "Autosave Chat"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Generate AI Chat Title on Save",
+            "target": "Generate AI Chat Title on Save"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Default Conversation Folder Name",
+            "target": "Default Conversation Folder Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Default Conversation Tag",
+            "target": "Default Conversation Tag"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Chat History Sort Strategy",
+            "target": "Chat History Sort Strategy"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Project List Sort Strategy",
+            "target": "Project List Sort Strategy"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Max Iterations",
+            "target": "Max Iterations"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Enable Autonomous Agent",
+            "target": "Enable Autonomous Agent"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Reference Recent Conversation",
+            "target": "Reference Recent Conversation"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Max Recent Conversations",
+            "target": "Max Recent Conversations"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Chat Models",
+            "target": "Chat Models"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Conversation turns in context",
+            "target": "Conversation turns in context"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Auto-compact threshold",
+            "target": "Auto-compact threshold"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Enable Inline Citations (experimental)",
+            "target": "Enable Inline Citations (experimental)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Auto-Index Strategy",
+            "target": "Auto-Index Strategy"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Max Sources",
+            "target": "Max Sources"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Requests per Minute",
+            "target": "Requests per Minute"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Number of Partitions",
+            "target": "Number of Partitions"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Lexical Search RAM Limit",
+            "target": "Lexical Search RAM Limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Enable Folder and Graph Boosts",
+            "target": "Enable Folder and Graph Boosts"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Enable Obsidian Sync for Copilot index",
+            "target": "Enable Obsidian Sync for Copilot index"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Disable index loading on mobile",
+            "target": "Disable index loading on mobile"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "tooltip",
+            "source": "must be in note property",
+            "target": "must be in note property"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "tooltip",
+            "source": "Edit Command",
+            "target": "Edit Command"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "tooltip",
+            "source": "Edit Model",
+            "target": "Edit Model"
+        }
+    ],
+    "regex": []
+}
