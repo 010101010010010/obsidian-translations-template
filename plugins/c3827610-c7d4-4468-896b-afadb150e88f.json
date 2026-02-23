@@ -1,0 +1,477 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-admonition",
+        "version": "1.0.0",
+        "title": "Admonition",
+        "description": "Admonition Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "10.3.2",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "createDiv",
+            "source": "callout-content admonition-content",
+            "target": "callout-content admonition-content"
+        },
+        {
+            "type": "CallExpression",
+            "name": "createDiv",
+            "source": "callout-icon admonition-title-icon",
+            "target": "callout-icon admonition-title-icon"
+        },
+        {
+            "type": "CallExpression",
+            "name": "createDiv",
+            "source": "callout-title-inner admonition-title-content",
+            "target": "callout-title-inner admonition-title-content"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Obsidian Admonition loaded",
+            "target": "Obsidian Admonition loaded"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Obsidian Admonition unloaded",
+            "target": "Obsidian Admonition unloaded"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Export Selected",
+            "target": "Export Selected"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Select All",
+            "target": "Select All"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Deselect All",
+            "target": "Deselect All"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Download All",
+            "target": "Download All"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Select & Download",
+            "target": "Select & Download"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Choose Files",
+            "target": "Choose Files"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Leave blank to render without a title.",
+            "target": "Leave blank to render without a title."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Export a CSS snippet for custom callout types.",
+            "target": "Export a CSS snippet for custom callout types."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Choose custom types to export as a JSON file that you can then share with other users.",
+            "target": "Choose custom types to export as a JSON file that you can then share with other users."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Instead of managing it internally, Admonitions will maintain a CSS snippet to enable your custom types for callouts.",
+            "target": "Instead of managing it internally, Admonitions will maintain a CSS snippet to enable your custom types for callouts."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Add a new Admonition type. All custom Admonitions will also be usable as callouts.",
+            "target": "Add a new Admonition type. All custom Admonitions will also be usable as callouts."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Import admonitions from a JSON definition.",
+            "target": "Import admonitions from a JSON definition."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "A drop shadow will be added to admonitions.",
+            "target": "A drop shadow will be added to admonitions."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Collapsible admonitions & callouts will be either opened or closed.",
+            "target": "Collapsible admonitions & callouts will be either opened or closed."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Add a 'copy content' button to admonitions & callouts.",
+            "target": "Add a 'copy content' button to admonitions & callouts."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Disable this setting to turn off admonition coloring by default. Can be overridden in the admonition definition.",
+            "target": "Disable this setting to turn off admonition coloring by default. Can be overridden in the admonition definition."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Any admonition that does not have content inside it will be hidden.",
+            "target": "Any admonition that does not have content inside it will be hidden."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Load an additional icon pack. This requires an internet connection.",
+            "target": "Load an additional icon pack. This requires an internet connection."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Icon to display next to the title.",
+            "target": "Icon to display next to the title."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Admonition Type",
+            "target": "Admonition Type"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Admonition Title",
+            "target": "Admonition Title"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Make Collapsible",
+            "target": "Make Collapsible"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Export Custom Types as CSS",
+            "target": "Export Custom Types as CSS"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Export Custom Types as JSON",
+            "target": "Export Custom Types as JSON"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Use CSS Snippet for Custom Callouts",
+            "target": "Use CSS Snippet for Custom Callouts"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Import Admonition(s)",
+            "target": "Import Admonition(s)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Admonitions & Callouts",
+            "target": "Admonitions & Callouts"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Add Drop Shadow",
+            "target": "Add Drop Shadow"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Set Admonition Colors",
+            "target": "Set Admonition Colors"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Icon Packs",
+            "target": "Icon Packs"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Use Font Awesome Icons",
+            "target": "Use Font Awesome Icons"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Load Additional Icons",
+            "target": "Load Additional Icons"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Additional Syntaxes",
+            "target": "Additional Syntaxes"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Convert MSDoc Admonitions to Callouts",
+            "target": "Convert MSDoc Admonitions to Callouts"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Convert Codeblock Admonitions to Callouts",
+            "target": "Convert Codeblock Admonitions to Callouts"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Advanced Settings",
+            "target": "Advanced Settings"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Admonition Type",
+            "target": "Admonition Type"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "No match found",
+            "target": "No match found"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Export Admonitions",
+            "target": "Export Admonitions"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "An admonition must have a title if it is collapsible.",
+            "target": "An admonition must have a title if it is collapsible."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No admonition type by that name exists.",
+            "target": "No admonition type by that name exists."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "At least one admonition must be chosen to export.",
+            "target": "At least one admonition must be chosen to export."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "There was an error parsing the image.",
+            "target": "There was an error parsing the image."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Fix errors before saving.",
+            "target": "Fix errors before saving."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Could not download icon pack",
+            "target": "Could not download icon pack"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Callout content copied to clipboard.",
+            "target": "Callout content copied to clipboard."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Admonition content copied to clipboard.",
+            "target": "Admonition content copied to clipboard."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "There was an issue inserting the admonition.",
+            "target": "There was an issue inserting the admonition."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Admonition titles can only be strings.",
+            "target": "Admonition titles can only be strings."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "That Admonition type already exists.",
+            "target": "That Admonition type already exists."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Collapse Admonitions in Note",
+            "target": "Collapse Admonitions in Note"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Open Admonitions in Note",
+            "target": "Open Admonitions in Note"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Insert Admonition",
+            "target": "Insert Admonition"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Insert Callout",
+            "target": "Insert Callout"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Import one or more admonition definitions as a JSON array. An admonition definition should look as follows at minimum:",
+            "target": "Import one or more admonition definitions as a JSON array. An admonition definition should look as follows at minimum:"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "See the plugin ReadMe for more information.",
+            "target": "See the plugin ReadMe for more information."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "All admonitions & callouts will be collapsible by default. Use ",
+            "target": "All admonitions & callouts will be collapsible by default. Use "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "collapse: none",
+            "target": "collapse: none"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Obsidian 0.14 has introduced Callout boxes to its core functionality using the same syntax as the Microsoft Document callouts.",
+            "target": "Obsidian 0.14 has introduced Callout boxes to its core functionality using the same syntax as the Microsoft Document callouts."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "This has rendered the Microsoft Document syntax for Admonitions obsolete, but Admonitions can still be used to create and manage your custom callout types.",
+            "target": "This has rendered the Microsoft Document syntax for Admonitions obsolete, but Admonitions can still be used to create and manage your custom callout types."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Your existing code block Admonitions will always work!",
+            "target": "Your existing code block Admonitions will always work!"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "This ",
+            "target": "This "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": " modify notes. Use at your own risk and please make backups.",
+            "target": " modify notes. Use at your own risk and please make backups."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "With large vaults, this could take awhile!",
+            "target": "With large vaults, this could take awhile!"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Converting MS-doc admonitions...",
+            "target": "Converting MS-doc admonitions..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Converting Codeblock admonitions...",
+            "target": "Converting Codeblock admonitions..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "This is used to create the admonition (e.g.,  ",
+            "target": "This is used to create the admonition (e.g.,  "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": " or ",
+            "target": " or "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "A copy button will be added to the admonition & callout.",
+            "target": "A copy button will be added to the admonition & callout."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Admonitions: Obsidian now has native support for callouts! Check out the ",
+            "target": "Admonitions: Obsidian now has native support for callouts! Check out the "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Admonitions ReadMe",
+            "target": "Admonitions ReadMe"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": " for what that means for Admonitions going forward.",
+            "target": " for what that means for Admonitions going forward."
+        }
+    ],
+    "regex": []
+}

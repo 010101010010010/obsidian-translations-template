@@ -1,0 +1,1654 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-excalidraw-plugin",
+        "version": "1.0.0",
+        "title": "Excalidraw",
+        "description": "Excalidraw Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "2.19.2",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "AssignmentExpression",
+            "name": "innerHTML",
+            "source": "Read the Perfect Freehand documentation following <a href=\"https://github.com/steveruizok/perfect-freehand#documentation\" target=\"_blank\">this link</a>.",
+            "target": "Read the Perfect Freehand documentation following <a href=\"https://github.com/steveruizok/perfect-freehand#documentation\" target=\"_blank\">this link</a>."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "innerText",
+            "source": "No out of date files found.",
+            "target": "No out of date files found."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "innerText",
+            "source": "Select files to open.",
+            "target": "Select files to open."
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Mindmap Thin-Thick-Thin",
+            "target": "Mindmap Thin-Thick-Thin"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Mindmap Thick-Thin",
+            "target": "Mindmap Thick-Thin"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Marker with Outline",
+            "target": "Marker with Outline"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Fountain pen",
+            "target": "Fountain pen"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Fine tip pen",
+            "target": "Fine tip pen"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Excalidraw Default",
+            "target": "Excalidraw Default"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Dots (⚠ VERY SLOW performance on large objects!)",
+            "target": "Dots (⚠ VERY SLOW performance on large objects!)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Yes for mouse, No for pen",
+            "target": "Yes for mouse, No for pen"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Practically never (every 15 minutes)",
+            "target": "Practically never (every 15 minutes)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Rare (every 5 minutes)",
+            "target": "Rare (every 5 minutes)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Moderate (every 60 seconds)",
+            "target": "Moderate (every 60 seconds)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Frequent (every 30 seconds)",
+            "target": "Frequent (every 30 seconds)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Very frequent (every 15 seconds)",
+            "target": "Very frequent (every 15 seconds)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Practically never (every 5 minutes)",
+            "target": "Practically never (every 5 minutes)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Rare (every 1 minute)",
+            "target": "Rare (every 1 minute)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Moderate (every 30 seconds)",
+            "target": "Moderate (every 30 seconds)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Frequent (every 20 seconds)",
+            "target": "Frequent (every 20 seconds)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Very frequent (every 10 seconds)",
+            "target": "Very frequent (every 10 seconds)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Gray, match tone",
+            "target": "Gray, match tone"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Match color",
+            "target": "Match color"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Dynamic Styling OFF",
+            "target": "Dynamic Styling OFF"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Usually normal, but view-mode on Phone",
+            "target": "Usually normal, but view-mode on Phone"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Always in view-mode",
+            "target": "Always in view-mode"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Always in zen-mode",
+            "target": "Always in zen-mode"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Always in normal-mode",
+            "target": "Always in normal-mode"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "On Obsidian Mobile",
+            "target": "On Obsidian Mobile"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "SVG Image",
+            "target": "SVG Image"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "Native SVG",
+            "target": "Native SVG"
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "PNG Image",
+            "target": "PNG Image"
+        },
+        {
+            "type": "CallExpression",
+            "name": "createDiv",
+            "source": "excalidraw-search document-search-container",
+            "target": "excalidraw-search document-search-container"
+        },
+        {
+            "type": "CallExpression",
+            "name": "createDiv",
+            "source": "search-input-container document-search-input",
+            "target": "search-input-container document-search-input"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error loading font:",
+            "target": "Error loading font:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to export to PDF: ",
+            "target": "Failed to export to PDF: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to copy SVG to clipboard: ",
+            "target": "Failed to copy SVG to clipboard: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error starting edit:",
+            "target": "Error starting edit:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error stopping edit:",
+            "target": "Error stopping edit:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "There were errors while parsing the given SVG: ",
+            "target": "There were errors while parsing the given SVG: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error adding ObserverManager",
+            "target": "Error adding ObserverManager"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error loading the Excalidraw package",
+            "target": "Error loading the Excalidraw package"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error registering commands",
+            "target": "Error registering commands"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error registering event listeners",
+            "target": "Error registering event listeners"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error loading plugin settings",
+            "target": "Error loading plugin settings"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing Excalidraw Automate",
+            "target": "Error initializing Excalidraw Automate"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error adding markdown post processor",
+            "target": "Error adding markdown post processor"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing compression worker",
+            "target": "Error initializing compression worker"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing Excalidraw config",
+            "target": "Error initializing Excalidraw config"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error registering monkey patches",
+            "target": "Error registering monkey patches"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing styles manager",
+            "target": "Error initializing styles manager"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing script engine",
+            "target": "Error initializing script engine"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing fonts",
+            "target": "Error initializing fonts"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error initializing image cache",
+            "target": "Error initializing image cache"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error switching views to Excalidraw",
+            "target": "Error switching views to Excalidraw"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error opening release notes",
+            "target": "Error opening release notes"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error running startup script",
+            "target": "Error running startup script"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error setting up editor handler",
+            "target": "Error setting up editor handler"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error registering script install-codeblock processor",
+            "target": "Error registering script install-codeblock processor"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error registering editor suggester",
+            "target": "Error registering editor suggester"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error setting up property types",
+            "target": "Error setting up property types"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "patching mobile view",
+            "target": "patching mobile view"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Adding CMAP format 12 (needed!)",
+            "target": "Adding CMAP format 12 (needed!)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "ISECT[], ",
+            "target": "ISECT[], "
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "returning from",
+            "target": "returning from"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "(d =",
+            "target": "(d ="
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "---EXEC FPGM---",
+            "target": "---EXEC FPGM---"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "---EXEC PREP---",
+            "target": "---EXEC PREP---"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Note: further hinting errors are silenced",
+            "target": "Note: further hinting errors are silenced"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "---EXEC COMPOSITE---",
+            "target": "---EXEC COMPOSITE---"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "---EXEC GLYPH---",
+            "target": "---EXEC GLYPH---"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "PROCESSING GLYPH",
+            "target": "PROCESSING GLYPH"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "FINISHED GLYPH",
+            "target": "FINISHED GLYPH"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Initialized Excalidraw Image Cache",
+            "target": "Initialized Excalidraw Image Cache"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "No view loaded",
+            "target": "No view loaded"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Use Canvas Current",
+            "target": "Use Canvas Current"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Import PDF",
+            "target": "Import PDF"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Select type of pen",
+            "target": "Select type of pen"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Background has color or is transparent",
+            "target": "Background has color or is transparent"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Line sloppiness of the shape fill pattern",
+            "target": "Line sloppiness of the shape fill pattern"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "If the stroke has an outline, this will mean the stroke color is the outline color, and the background color is the pen stroke's fill color. If the pen does not have an outline then the pen color is the stroke color. The Fill Style setting applies to the fill style of the enclosed shape, not of the line itself. The line can only have solid fill.",
+            "target": "If the stroke has an outline, this will mean the stroke color is the outline color, and the background color is the pen stroke's fill color. If the pen does not have an outline then the pen color is the stroke color. The Fill Style setting applies to the fill style of the enclosed shape, not of the line itself. The line can only have solid fill."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Whether to simulate pressure based on velocity.",
+            "target": "Whether to simulate pressure based on velocity."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Whether to draw a cap",
+            "target": "Whether to draw a cap"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "The distance to taper. If set to true, the taper will be the total length of the stroke.",
+            "target": "The distance to taper. If set to true, the taper will be the total length of the stroke."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "e.g.: 1,3-5,7,9-10",
+            "target": "e.g.: 1,3-5,7,9-10"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Select a document first",
+            "target": "Select a document first"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Pen type",
+            "target": "Pen type"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Select stroke color",
+            "target": "Select stroke color"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Background color",
+            "target": "Background color"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Fill Style",
+            "target": "Fill Style"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Highlighter pen?",
+            "target": "Highlighter pen?"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Pressure sensitive pen?",
+            "target": "Pressure sensitive pen?"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Easing function",
+            "target": "Easing function"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Simulate Pressure",
+            "target": "Simulate Pressure"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Cap Start",
+            "target": "Cap Start"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Cap End",
+            "target": "Cap End"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Lock pages on canvas after import",
+            "target": "Lock pages on canvas after import"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Import direction",
+            "target": "Import direction"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Number of columns",
+            "target": "Number of columns"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Number of rows",
+            "target": "Number of rows"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Size of gap between pages",
+            "target": "Size of gap between pages"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Imported page size",
+            "target": "Imported page size"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: Excalidraw",
+            "target": "e.g.: Excalidraw"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: Excalidraw/Cropped",
+            "target": "e.g.: Excalidraw/Cropped"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: Excalidraw/Annotations",
+            "target": "e.g.: Excalidraw/Annotations"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: Excalidraw/Scripts",
+            "target": "e.g.: Excalidraw/Scripts"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: Drawing ",
+            "target": "e.g.: Drawing "
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "YYYY-MM-DD HH.mm.ss",
+            "target": "YYYY-MM-DD HH.mm.ss"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: cropped_",
+            "target": "e.g.: cropped_"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: _cropped",
+            "target": "e.g.: _cropped"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: annotated_",
+            "target": "e.g.: annotated_"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: _annotated",
+            "target": "e.g.: _annotated"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: 4096",
+            "target": "e.g.: 4096"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: https://api.openai.com/v1/chat/completions",
+            "target": "e.g.: https://api.openai.com/v1/chat/completions"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Enter a number",
+            "target": "Enter a number"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: 400",
+            "target": "e.g.: 400"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Enter a number e.g. 500",
+            "target": "Enter a number e.g. 500"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Enter a number e.g. 800",
+            "target": "Enter a number e.g. 800"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "CSS Color-name|RGB-HEX",
+            "target": "CSS Color-name|RGB-HEX"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "filename of css file in vault",
+            "target": "filename of css file in vault"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: Excalidraw/FontAssets",
+            "target": "e.g.: Excalidraw/FontAssets"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "e.g.: preamble.sty",
+            "target": "e.g.: preamble.sty"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Pen Settings",
+            "target": "Pen Settings"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Import PDF",
+            "target": "Import PDF"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "No match",
+            "target": "No match"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Congratulations, glorious knight!",
+            "target": "Congratulations, glorious knight!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Out of Date SVG Files",
+            "target": "Out of Date SVG Files"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Font.toBuffer is deprecated. Use Font.toArrayBuffer instead.",
+            "target": "Font.toBuffer is deprecated. Use Font.toArrayBuffer instead."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Font file could not be downloaded. Try using a different browser.",
+            "target": "Font file could not be downloaded. Try using a different browser."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Only the first kern subtable is supported.",
+            "target": "Only the first kern subtable is supported."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "PolyBool: Warning: Zero-length segment detected; your epsilon is probably too small or too large",
+            "target": "PolyBool: Warning: Zero-length segment detected; your epsilon is probably too small or too large"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Multiple frames are not supported for image cropping. Discarding frames from mask.",
+            "target": "Multiple frames are not supported for image cropping. Discarding frames from mask."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No image found. Cannot crop.",
+            "target": "No image found. Cannot crop."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Excalidraw Image Cache is Initialized - You may now retry opening your damaged drawing.",
+            "target": "Excalidraw Image Cache is Initialized - You may now retry opening your damaged drawing."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Mermaid images are only supported in Obsidian 1.4.14 and above. Please update Obsidian to see the mermaid images in this drawing. Obsidian mobile 1.4.14 currently only avaiable to Obsidian insiders",
+            "target": "Mermaid images are only supported in Obsidian 1.4.14 and above. Please update Obsidian to see the mermaid images in this drawing. Obsidian mobile 1.4.14 currently only avaiable to Obsidian insiders"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error opening the Excalidraw Script Store page. Please double check that you can access the website. I've logged the link in developer console (press CTRL+SHIFT+i)",
+            "target": "Error opening the Excalidraw Script Store page. Please double check that you can access the website. I've logged the link in developer console (press CTRL+SHIFT+i)"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Could not open ScriptEngine repository",
+            "target": "Could not open ScriptEngine repository"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Cannot pin this action",
+            "target": "Cannot pin this action"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Taskbone OCR is not enabled. Please go to plugins settings to enable it.",
+            "target": "Taskbone OCR is not enabled. Please go to plugins settings to enable it."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Sorry, cannot edit rotated markdown documents",
+            "target": "Sorry, cannot edit rotated markdown documents"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "OpenAI API Token is not set. Please set it in plugin settings.",
+            "target": "OpenAI API Token is not set. Please set it in plugin settings."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "on drop hook error. See console log for details",
+            "target": "on drop hook error. See console log for details"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Save successful",
+            "target": "Save successful"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unknown error, save is taking too long",
+            "target": "Unknown error, save is taking too long"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unexpected error",
+            "target": "Unexpected error"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Image not found",
+            "target": "Image not found"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed. Could not download image!",
+            "target": "Failed. Could not download image!"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Image successfully converted to local file",
+            "target": "Image successfully converted to local file"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "File not found. NewExcalidraw Drawing is taking too long to create. Please try again.",
+            "target": "File not found. NewExcalidraw Drawing is taking too long to create. Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error adding ObserverManager",
+            "target": "Error adding ObserverManager"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error loading the Excalidraw package. Some features may not work correctly.",
+            "target": "Error loading the Excalidraw package. Some features may not work correctly."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "The drawing has already been processed, you will find the result in the frontmatter in markdown view mode. If you ran the command from the Obsidian Panel in Excalidraw then you can CTRL(CMD)+click the command to force the rescaning.",
+            "target": "The drawing has already been processed, you will find the result in the frontmatter in markdown view mode. If you ran the command from the Obsidian Panel in Excalidraw then you can CTRL(CMD)+click the command to force the rescaning."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Something went wrong while processing your request. Please check developer console for more information",
+            "target": "Something went wrong while processing your request. Please check developer console for more information"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error registering commands",
+            "target": "Error registering commands"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "The compressed string is corrupted. Unable to decompress data.",
+            "target": "The compressed string is corrupted. Unable to decompress data."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please try again.",
+            "target": "Please try again."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Select a single back-of-the-note card and try again",
+            "target": "Select a single back-of-the-note card and try again"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error loading plugin settings",
+            "target": "Error loading plugin settings"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing Excalidraw Automate",
+            "target": "Error initializing Excalidraw Automate"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error adding markdown post processor",
+            "target": "Error adding markdown post processor"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing compression worker",
+            "target": "Error initializing compression worker"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing Excalidraw config",
+            "target": "Error initializing Excalidraw config"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error registering monkey patches",
+            "target": "Error registering monkey patches"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing styles manager",
+            "target": "Error initializing styles manager"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing script engine",
+            "target": "Error initializing script engine"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing fonts",
+            "target": "Error initializing fonts"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error initializing image cache",
+            "target": "Error initializing image cache"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error switching views to Excalidraw",
+            "target": "Error switching views to Excalidraw"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error opening release notes",
+            "target": "Error opening release notes"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error running startup script",
+            "target": "Error running startup script"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error setting up editor handler",
+            "target": "Error setting up editor handler"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error registering script install-codeblock processor",
+            "target": "Error registering script install-codeblock processor"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error registering editor suggester",
+            "target": "Error registering editor suggester"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Error setting up property types",
+            "target": "Error setting up property types"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "aria-label",
+            "source": "Close sidepanel tab",
+            "target": "Close sidepanel tab"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "caption",
+            "source": "Clipped Frame",
+            "target": "Clipped Frame"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Utility function that provides help about ExcalidrawAutomate functions and properties. I recommend calling this function from Developer Console to print out help to the console.",
+            "target": "Utility function that provides help about ExcalidrawAutomate functions and properties. I recommend calling this function from Developer Console to print out help to the console."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns true if the file is an Excalidraw Mask file. If file is not provided, the function will use ea.targetView.file",
+            "target": "Returns true if the file is an Excalidraw Mask file. If file is not provided, the function will use ea.targetView.file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "The ExcalidrawPlugin object",
+            "target": "The ExcalidrawPlugin object"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "A modified version of the Obsidian.Modal class that allows the modal to be dragged around the screen and that does not dim the background.",
+            "target": "A modified version of the Obsidian.Modal class that allows the modal to be dragged around the screen and that does not dim the background."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "the images files including DataURL, indexed by fileId",
+            "target": "the images files including DataURL, indexed by fileId"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Rotation of the object in radian",
+            "target": "Rotation of the object in radian"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "'hachure' | 'cross-hatch' | 'solid'",
+            "target": "'hachure' | 'cross-hatch' | 'solid'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "'solid' | 'dashed' | 'dotted'",
+            "target": "'solid' | 'dashed' | 'dotted'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "0:Architect\n1:Artist\n2:Cartoonist",
+            "target": "0:Architect\n1:Artist\n2:Cartoonist"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "100: Fully opaque\n0: Fully transparent",
+            "target": "100: Fully opaque\n0: Fully transparent"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "set to null for 'sharp', else the stroke will be 'round'<br>type: 1==LEGACY,<br>2==PROPORTIONAL RADIUS,<br>3==ADAPTIVE RADIUS, value: adaptive factor defaults to 32",
+            "target": "set to null for 'sharp', else the stroke will be 'round'<br>type: 1==LEGACY,<br>2==PROPORTIONAL RADIUS,<br>3==ADAPTIVE RADIUS, value: adaptive factor defaults to 32"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "1: Virgil, 2:Helvetica, 3:Cascadia, 4:Local Font, 5: Excalifont, 6: Nunito, 7: Lilita One, 8: Comic Shanns, 9: Liberation Sans",
+            "target": "1: Virgil, 2:Helvetica, 3:Cascadia, 4:Local Font, 5: Excalifont, 6: Nunito, 7: Lilita One, 8: Comic Shanns, 9: Liberation Sans"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "'left' | 'right' | 'center'",
+            "target": "'left' | 'right' | 'center'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "For future use, has no effect currently; 'top' | 'bottom' | 'middle'",
+            "target": "For future use, has no effect currently; 'top' | 'bottom' | 'middle'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "'triangle' | 'dot' | 'arrow' | 'bar' | null",
+            "target": "'triangle' | 'dot' | 'arrow' | 'bar' | null"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "'dark' | 'light'",
+            "target": "'dark' | 'light'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Set ea.style.roundness. 0: is the legacy value, 3: is the current default value, null is sharp",
+            "target": "Set ea.style.roundness. 0: is the legacy value, 3: is the current default value, null is sharp"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns the dimensions of a standard page size in pixels.\n\n@param {PageSize} pageSize - The standard page size. Possible values are \"A0\", \"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"Letter\", \"Legal\", \"Tabloid\".\n@param {PageOrientation} orientation - The orientation of the page. Possible values are \"portrait\" and \"landscape\".\n@returns {PageDimensions} - An object containing the width and height of the page in pixels.\n\n@typedef {Object} PageDimensions\n@property {number} width - The width of the page in pixels.\n@property {number} height - The height of the page in pixels.\n\n@typedef {\"A0\" | \"A1\" | \"A2\" | \"A3\" | \"A4\" | \"A5\" | \"Letter\" | \"Legal\" | \"Tabloid\"} PageSize\n\n@typedef {\"portrait\" | \"landscape\"} PageOrientation",
+            "target": "Returns the dimensions of a standard page size in pixels.\n\n@param {PageSize} pageSize - The standard page size. Possible values are \"A0\", \"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"Letter\", \"Legal\", \"Tabloid\".\n@param {PageOrientation} orientation - The orientation of the page. Possible values are \"portrait\" and \"landscape\".\n@returns {PageDimensions} - An object containing the width and height of the page in pixels.\n\n@typedef {Object} PageDimensions\n@property {number} width - The width of the page in pixels.\n@property {number} height - The height of the page in pixels.\n\n@typedef {\"A0\" | \"A1\" | \"A2\" | \"A3\" | \"A4\" | \"A5\" | \"Letter\" | \"Legal\" | \"Tabloid\"} PageSize\n\n@typedef {\"portrait\" | \"landscape\"} PageOrientation"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "The same as createPNG but returns a base64 encoded string instead of a file.",
+            "target": "The same as createPNG but returns a base64 encoded string instead of a file."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "returns the base64 dataURL of the LaTeX equation rendered as an SVG. tex is the LaTeX equation string",
+            "target": "returns the base64 dataURL of the LaTeX equation rendered as an SVG. tex is the LaTeX equation string"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "type ConnectionPoint = \"top\" | \"bottom\" | \"left\" | \"right\" | null\nWhen null is passed as ConnectionPoint then Excalidraw will automatically decide\nnumberOfPoints is the number of points on the line. Default is 0 i.e. line will only have a start and end point.\nArrowHead: \"arrow\"|\"bar\"|\"circle\"|\"circle_outline\"|\"triangle\"|\"triangle_outline\"|\"diamond\"|\"diamond_outline\"|null",
+            "target": "type ConnectionPoint = \"top\" | \"bottom\" | \"left\" | \"right\" | null\nWhen null is passed as ConnectionPoint then Excalidraw will automatically decide\nnumberOfPoints is the number of points on the line. Default is 0 i.e. line will only have a start and end point.\nArrowHead: \"arrow\"|\"bar\"|\"circle\"|\"circle_outline\"|\"triangle\"|\"triangle_outline\"|\"diamond\"|\"diamond_outline\"|null"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Adds a text label to a line or arrow. Currently only works with a simple straight 2-point (start & end) line",
+            "target": "Adds a text label to a line or arrow. Currently only works with a simple straight 2-point (start & end) line"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "clear() + reset all style values to default",
+            "target": "clear() + reset all style values to default"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns true if MD file is an Excalidraw file",
+            "target": "Returns true if MD file is an Excalidraw file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "The Obsidian view currently edited",
+            "target": "The Obsidian view currently edited"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Markdown renderer will drop a copy of the most recent SVG here for debugging purposes",
+            "target": "Markdown renderer will drop a copy of the most recent SVG here for debugging purposes"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Open a file in a new workspaceleaf or reuse an existing adjacent leaf depending on Excalidraw Plugin Settings",
+            "target": "Open a file in a new workspaceleaf or reuse an existing adjacent leaf depending on Excalidraw Plugin Settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Measures text size based on current style settings",
+            "target": "Measures text size based on current style settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns true if plugin version is >= than required\nrecommended use:\n<code>if(!ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion(\"1.5.20\")) {new Notice(\"message\");return;}<code>",
+            "target": "Returns true if plugin version is >= than required\nrecommended use:\n<code>if(!ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion(\"1.5.20\")) {new Notice(\"message\");return;}<code>"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns an 8 character long random id",
+            "target": "Returns an 8 character long random id"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Converts a HEX color to an RGB number array. #FF0000 to [255,0,0]",
+            "target": "Converts a HEX color to an RGB number array. #FF0000 to [255,0,0]"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Converts an RGB number array to a HEX string. [255,0,0] to #FF0000",
+            "target": "Converts an RGB number array to a HEX string. [255,0,0] to #FF0000"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Converts an HSL number array to an RGB number array. [0,100,50] to [255,0,0]",
+            "target": "Converts an HSL number array to an RGB number array. [0,100,50] to [255,0,0]"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Converts an RGB number array to an HSL number array. [255,0,0] to [0,100,50]",
+            "target": "Converts an RGB number array to an HSL number array. [255,0,0] to [0,100,50]"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Converts a CSS color name to its HEX color equivalent. 'White' to #FFFFFF",
+            "target": "Converts a CSS color name to its HEX color equivalent. 'White' to #FFFFFF"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns a new instance of ExcalidrawAutomate.",
+            "target": "Returns a new instance of ExcalidrawAutomate."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "This asynchronous function should be awaited. It retrieves the filepath to a new file, taking into account the attachments preference settings in Obsidian. If the attachment folder doesn't exist, it creates it. The function returns the complete path to the file. If the provided filename already exists, the function will append '_[number]' before the extension to generate a unique filename.Prompts the user with a dialog to select new file action.<br> - create markdown file<br> - create excalidraw file<br> - cancel action<br>The new file will be relative to this.targetView.file.path, unless parentFile is provided. If shouldOpenNewFile is true, the new file will be opened in a workspace leaf. targetPane controls which leaf will be used for the new file.<br>Returns the TFile for the new file or null if the user cancelled the action.<br><code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";</code>",
+            "target": "This asynchronous function should be awaited. It retrieves the filepath to a new file, taking into account the attachments preference settings in Obsidian. If the attachment folder doesn't exist, it creates it. The function returns the complete path to the file. If the provided filename already exists, the function will append '_[number]' before the extension to generate a unique filename.Prompts the user with a dialog to select new file action.<br> - create markdown file<br> - create excalidraw file<br> - cancel action<br>The new file will be relative to this.targetView.file.path, unless parentFile is provided. If shouldOpenNewFile is true, the new file will be opened in a workspace leaf. targetPane controls which leaf will be used for the new file.<br>Returns the TFile for the new file or null if the user cancelled the action.<br><code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";</code>"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "@returns the last recorded pointer position on the Excalidraw canvas",
+            "target": "@returns the last recorded pointer position on the Excalidraw canvas"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "@returns the center position of the current view in Excalidraw coordinates",
+            "target": "@returns the center position of the current view in Excalidraw coordinates"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns the active sidepanel tab for the given script, or null if none exists. If scriptName is omitted the function checks ea.activeScript. At most one sidepanel tab may be open per script. The returned ExcalidrawSidepanelTab may be hosted by a different ExcalidrawAutomate instance — compare sidepanelTab.getHostEA() === ea to determine ownership. Useful to detect or reuse an existing tab instead of creating a new one.",
+            "target": "Returns the active sidepanel tab for the given script, or null if none exists. If scriptName is omitted the function checks ea.activeScript. At most one sidepanel tab may be open per script. The returned ExcalidrawSidepanelTab may be hosted by a different ExcalidrawAutomate instance — compare sidepanelTab.getHostEA() === ea to determine ownership. Useful to detect or reuse an existing tab instead of creating a new one."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Creates this EA instance's sidepanel tab; use the returned ExcalidrawSidepanelTab (setContent/setTitle, onOpen/onClose/onFocus, contentEl) to build the UI and lifecycle hooks.\nIn case the script wants to replace the sidepanel tab it created earlier, call closeSidepanelTab() first, then createSidepanelTab() again.",
+            "target": "Creates this EA instance's sidepanel tab; use the returned ExcalidrawSidepanelTab (setContent/setTitle, onOpen/onClose/onFocus, contentEl) to build the UI and lifecycle hooks.\nIn case the script wants to replace the sidepanel tab it created earlier, call closeSidepanelTab() first, then createSidepanelTab() again."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns the WorkspaceLeaf hosting the Excalidraw sidepanel view, or null if the sidepanel is not present.",
+            "target": "Returns the WorkspaceLeaf hosting the Excalidraw sidepanel view, or null if the sidepanel is not present."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Toggles the Excalidraw sidepanel visibility when the sidepanel is hosted in the left or right workspace split. If the sidepanel is not attached to a left/right sidebar, no action is taken.",
+            "target": "Toggles the Excalidraw sidepanel visibility when the sidepanel is hosted in the left or right workspace split. If the sidepanel is not attached to a left/right sidebar, no action is taken."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Pins the active script's sidepanel tab so it persists across Obsidian restarts and returns it.",
+            "target": "Pins the active script's sidepanel tab so it persists across Obsidian restarts and returns it."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Generates a new Obsidian Leaf following Excalidraw plugin settings such as open in Main Workspace or not, open in adjacent pane if available, etc.<br>@param origo: the currently active leaf, the origin of the new leaf<br>@param targetPane: <code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";",
+            "target": "Generates a new Obsidian Leaf following Excalidraw plugin settings such as open in Main Workspace or not, open in adjacent pane if available, etc.<br>@param origo: the currently active leaf, the origin of the new leaf<br>@param targetPane: <code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Returns the current device type. Possible values are: <br><code>type DeviceType = {<br>  isDesktop: boolean,<br>  isPhone: boolean,<br>  isTablet: boolean,<br>  isMobile: boolean,<br>  isLinux: boolean,<br>  isMacOS: boolean,<br>  isWindows: boolean,<br>  isIOS: boolean,<br>  isAndroid: boolean<br>};",
+            "target": "Returns the current device type. Possible values are: <br><code>type DeviceType = {<br>  isDesktop: boolean,<br>  isPhone: boolean,<br>  isTablet: boolean,<br>  isMobile: boolean,<br>  isLinux: boolean,<br>  isMacOS: boolean,<br>  isWindows: boolean,<br>  isIOS: boolean,<br>  isAndroid: boolean<br>};"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Checks if the folder exists, if not, creates it.",
+            "target": "Checks if the folder exists, if not, creates it."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Checks if the filepath already exists, if so, returns a new filepath with a number appended to the filename else returns the filepath as provided.",
+            "target": "Checks if the filepath already exists, if so, returns a new filepath with a number appended to the filename else returns the filepath as provided."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Grabs the codeblock content from the supplied markdown string. Returns an array of dictionaries with the codeblock content and type",
+            "target": "Grabs the codeblock content from the supplied markdown string. Returns an array of dictionaries with the codeblock content and type"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Converts a string to a DataURL.",
+            "target": "Converts a string to a DataURL."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Sets Excalidraw in the targetView to view-mode",
+            "target": "Sets Excalidraw in the targetView to view-mode"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Splits a file path into its components.",
+            "target": "Splits a file path into its components."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Compresses String to a Base64 string using LZString",
+            "target": "Compresses String to a Base64 string using LZString"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Decompresses a base 64 compressed string using LZString",
+            "target": "Decompresses a base 64 compressed string using LZString"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "The TFile of the currently running script",
+            "target": "The TFile of the currently running script"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Denotes an excalidraw file. If key is not present, the file will not be recognized as an Excalidraw file. Valid values are 'parsed' and 'raw'",
+            "target": "Denotes an excalidraw file. If key is not present, the file will not be recognized as an Excalidraw file. Valid values are 'parsed' and 'raw'"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Specifies how Excalidraw should open by default. Valid values are: view|zen",
+            "target": "Specifies how Excalidraw should open by default. Valid values are: view|zen"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "The value of this field will be executed as javascript code using the Script Engine environment. Use this to initiate custom actions or logic when loading your drawing.",
+            "target": "The value of this field will be executed as javascript code using the Script Engine environment. Use this to initiate custom actions or logic when loading your drawing."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Default value (if not set) is true, if set to false internal links will not be exported to SVG images and PDFs.",
+            "target": "Default value (if not set) is true, if set to false internal links will not be exported to SVG images and PDFs."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "If this key is present the file will be opened as a markdown file in the editor",
+            "target": "If this key is present the file will be opened as a markdown file in the editor"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "Override autoexport settings for this file. Valid values are\nnone\nboth\npng\nsvg",
+            "target": "Override autoexport settings for this file. Valid values are\nnone\nboth\npng\nsvg"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "desc",
+            "source": "If this key is present the drawing will be handled as a mask to crop an image.",
+            "target": "If this key is present the drawing will be handled as a mask to crop an image."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 3 not supported",
+            "target": "GPOS Lookup 3 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 4 not supported",
+            "target": "GPOS Lookup 4 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 5 not supported",
+            "target": "GPOS Lookup 5 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 6 not supported",
+            "target": "GPOS Lookup 6 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 7 not supported",
+            "target": "GPOS Lookup 7 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 8 not supported",
+            "target": "GPOS Lookup 8 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "GPOS Lookup 9 not supported",
+            "target": "GPOS Lookup 9 not supported"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "new drawing not recognized as an excalidraw file",
+            "target": "new drawing not recognized as an excalidraw file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Excalidraw not available",
+            "target": "Excalidraw not available"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "ea.onCanvasColorChangeHook exception",
+            "target": "ea.onCanvasColorChangeHook exception"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "targetView not set, or no longer active. Use setView before calling this function",
+            "target": "targetView not set, or no longer active. Use setView before calling this function"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "this function is not available on Obsidian Mobile",
+            "target": "this function is not available on Obsidian Mobile"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "PDF Files",
+            "target": "PDF Files"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "All Files",
+            "target": "All Files"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Pen settings",
+            "target": "Pen settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Perfect Freehand settings",
+            "target": "Perfect Freehand settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Tapering options for the start of the line.",
+            "target": "Tapering options for the start of the line."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Tapering options for the end of the line.",
+            "target": "Tapering options for the end of the line."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Video about Obsidian Publish support",
+            "target": "Video about Obsidian Publish support"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Collecting data...",
+            "target": "Collecting data..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Status: ",
+            "target": "Status: "
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Check Recursive",
+            "target": "Check Recursive"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Open Selected",
+            "target": "Open Selected"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Apprentice of Sketchnoting",
+            "target": "Apprentice of Sketchnoting"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Champion of Spatial Thinking",
+            "target": "Champion of Spatial Thinking"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Hero of Visual Notetaking",
+            "target": "Hero of Visual Notetaking"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Legend of Visual Thinking",
+            "target": "Legend of Visual Thinking"
+        }
+    ],
+    "regex": [
+        {
+            "source": "innerText=`${Math.round(this.pageDimensions.width*this.importScale)} x ${Math.round(this.pageDimensions.height*this.importScale)}`",
+            "target": "innerText=`${Math.round(this.pageDimensions.width*this.importScale)} x ${Math.round(this.pageDimensions.height*this.importScale)}`"
+        },
+        {
+            "source": "innerText=\"\"",
+            "target": "innerText=\"\""
+        },
+        {
+            "source": "innerText=`The selected document has ${this.pdfDoc.numPages} pages. Please select pages between 1 and ${this.pdfDoc.numPages}`",
+            "target": "innerText=`The selected document has ${this.pdfDoc.numPages} pages. Please select pages between 1 and ${this.pdfDoc.numPages}`"
+        },
+        {
+            "source": "innerText=` ${e.toString()}`",
+            "target": "innerText=` ${e.toString()}`"
+        },
+        {
+            "source": "innerText=` ${this.numColumns.toString()}`",
+            "target": "innerText=` ${this.numColumns.toString()}`"
+        },
+        {
+            "source": "innerText=` ${this.numRows.toString()}`",
+            "target": "innerText=` ${this.numRows.toString()}`"
+        },
+        {
+            "source": "innerText=` ${this.gapSize.toString()}`",
+            "target": "innerText=` ${this.gapSize.toString()}`"
+        },
+        {
+            "source": "innerText=`Importing page ${o} (${s+1} of ${this.pagesToImport.length})`",
+            "target": "innerText=`Importing page ${o} (${s+1} of ${this.pagesToImport.length})`"
+        },
+        {
+            "source": "innerText=` ${t.value.toString()}`",
+            "target": "innerText=` ${t.value.toString()}`"
+        },
+        {
+            "source": "innerText=`Status: ${s+1}/${o} ${c?c.name:n.path}`",
+            "target": "innerText=`Status: ${s+1}/${o} ${c?c.name:n.path}`"
+        },
+        {
+            "source": "innerText=\"No out of date files found.\"",
+            "target": "innerText=\"No out of date files found.\""
+        },
+        {
+            "source": "innerText=\"Select files to open.\"",
+            "target": "innerText=\"Select files to open.\""
+        }
+    ]
+}
