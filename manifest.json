@@ -22,5 +22,17 @@
         "hash": "5304dc3a5304dc3a5304dc3a5304dc3a",
         "created_at": "2026-02-22T15:40:22.960Z",
         "updated_at": "2026-02-23T09:51:41.091Z"
+    },
+    {
+        "id": "9b603ab5-1080-4268-8d6f-ea5cbec8fa42",
+        "plugin": "calendar",
+        "language": "zh-cn",
+        "version": "1.5.13",
+        "supported_versions": "1.5.13",
+        "title": "Calendar",
+        "description": "",
+        "hash": "69ce8b0c69ce8b0c69ce8b0c69ce8b0c",
+        "created_at": "2026-02-23T11:23:01.612Z",
+        "updated_at": "2026-02-23T11:23:01.612Z"
     }
 ]
