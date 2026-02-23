@@ -1,0 +1,2013 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "smart-connections",
+        "version": "1.0.0",
+        "title": "Smart Connections",
+        "description": "Smart Connections Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "4.1.8",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "AssignmentExpression",
+            "name": "innerHTML",
+            "source": "<div class=\"sc-loading\">Loading main settings...</div>",
+            "target": "<div class=\"sc-loading\">Loading main settings...</div>"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Smart Milestones",
+            "target": "Smart Milestones"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Error: scope is required for dropdown component.",
+            "target": "Error: scope is required for dropdown component."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Error: scope.settings{} is required for dropdown component.",
+            "target": "Error: scope.settings{} is required for dropdown component."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Error: setting_key is required for dropdown component.",
+            "target": "Error: setting_key is required for dropdown component."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Error: options[] is required for dropdown component.",
+            "target": "Error: options[] is required for dropdown component."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "View milestones",
+            "target": "View milestones"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "No Smart Env notifications yet.",
+            "target": "No Smart Env notifications yet."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Copied!",
+            "target": "Copied!"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Copy All Notifications",
+            "target": "Copy All Notifications"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "If the login page did not open, copy this link and paste it into your browser to open the login page:",
+            "target": "If the login page did not open, copy this link and paste it into your browser to open the login page:"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Error fetching plugin list. Check console.",
+            "target": "Error fetching plugin list. Check console."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Core installed!",
+            "target": "Core installed!"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Install Core",
+            "target": "Install Core"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Add context",
+            "target": "Add context"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Copy to clipboard",
+            "target": "Copy to clipboard"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Hide source data",
+            "target": "Hide source data"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Show source data",
+            "target": "Show source data"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "textContent",
+            "source": "Loading Smart Environment…",
+            "target": "Loading Smart Environment…"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "title",
+            "source": "Add value",
+            "target": "Add value"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "title",
+            "source": "Add property",
+            "target": "Add property"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "title",
+            "source": "No providers available to create new models.",
+            "target": "No providers available to create new models."
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "title",
+            "source": "Click to re-import.",
+            "target": "Click to re-import."
+        },
+        {
+            "type": "CallExpression",
+            "name": "addOption",
+            "source": "No folder selected",
+            "target": "No folder selected"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error getting component",
+            "target": "Error getting component"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Path: ",
+            "target": "Path: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error during write:",
+            "target": "Error during write:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "[smart-view] disposer error",
+            "target": "[smart-view] disposer error"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "No callback or href found for button.",
+            "target": "No callback or href found for button."
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "get_many called with non-array keys:",
+            "target": "get_many called with non-array keys:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error in SmartHttpObsidianRequestAdapter.request():",
+            "target": "Error in SmartHttpObsidianRequestAdapter.request():"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Invalid response format",
+            "target": "Invalid response format"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Invalid model data format from Ollama:",
+            "target": "Invalid model data format from Ollama:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Invalid response format from Ollama:",
+            "target": "Invalid response format from Ollama:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Max retries reached for rate limit errors.",
+            "target": "Max retries reached for rate limit errors."
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to fetch model data:",
+            "target": "Failed to fetch model data:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error in SmartChatModelApiAdapter.complete():",
+            "target": "Error in SmartChatModelApiAdapter.complete():"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error processing stream chunk:",
+            "target": "Error processing stream chunk:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Stream error:",
+            "target": "Stream error:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to start stream:",
+            "target": "Failed to start stream:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "[EventLogs] record failure",
+            "target": "[EventLogs] record failure"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "[pro-plugins:list] Failed to load referral stats:",
+            "target": "[pro-plugins:list] Failed to load referral stats:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "[pro-plugins:list] Failed to fetch plugin list:",
+            "target": "[pro-plugins:list] Failed to fetch plugin list:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error evaluating settings_config function:",
+            "target": "Error evaluating settings_config function:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to copy text:",
+            "target": "Failed to copy text:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "[source_inspector] Error reading block:",
+            "target": "[source_inspector] Error reading block:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error in open_source:",
+            "target": "Error in open_source:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "OAuth callback error",
+            "target": "OAuth callback error"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to fetch connections results",
+            "target": "Failed to fetch connections results"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Failed to open ReleaseNotesView",
+            "target": "Failed to open ReleaseNotesView"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "model loaded",
+            "target": "model loaded"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "transformers iframe connector",
+            "target": "transformers iframe connector"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "LM Studio models",
+            "target": "LM Studio models"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "no chunk",
+            "target": "no chunk"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Suggestion action result",
+            "target": "Suggestion action result"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Smart Connections: Waiting for Obsidian Sync to finish",
+            "target": "Smart Connections: Waiting for Obsidian Sync to finish"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Waiting for env to load (mobile)...",
+            "target": "Waiting for env to load (mobile)..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Waiting for env to load...",
+            "target": "Waiting for env to load..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Rendering connections list in codeblock view",
+            "target": "Rendering connections list in codeblock view"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "connections:show event received",
+            "target": "connections:show event received"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Connections container is not visible",
+            "target": "Connections container is not visible"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "connections codeblock view detected settings change",
+            "target": "connections codeblock view detected settings change"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "Unloading Smart Connections plugin",
+            "target": "Unloading Smart Connections plugin"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "opening release notes modal",
+            "target": "opening release notes modal"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Copy link",
+            "target": "Copy link"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Open referrals",
+            "target": "Open referrals"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Get Pro",
+            "target": "Get Pro"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Update subscription",
+            "target": "Update subscription"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Learn more",
+            "target": "Learn more"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Signed in to Smart Plugins Pro account.",
+            "target": "Signed in to Smart Plugins Pro account."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Share your link to give $30 off Pro and earn 30 days of Pro credit.",
+            "target": "Share your link to give $30 off Pro and earn 30 days of Pro credit."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins.",
+            "target": "Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Connect account",
+            "target": "Connect account"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Referral link",
+            "target": "Referral link"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Subscription Expired",
+            "target": "Subscription Expired"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Select a folder to exclude...",
+            "target": "Select a folder to exclude..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Smart Env notifications",
+            "target": "Smart Env notifications"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Edit model",
+            "target": "Edit model"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Excluded folders",
+            "target": "Excluded folders"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "No folders excluded yet.",
+            "target": "No folders excluded yet."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Excluded Sources",
+            "target": "Excluded Sources"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Are you sure you want to clear all sources data? This cannot be undone.",
+            "target": "Are you sure you want to clear all sources data? This cannot be undone."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Smart Environment",
+            "target": "Smart Environment"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Need help and support?",
+            "target": "Need help and support?"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Copy link tree",
+            "target": "Copy link tree"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Inspect active note",
+            "target": "Inspect active note"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Show stats",
+            "target": "Show stats"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Export data",
+            "target": "Export data"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Learn about Community Supporters",
+            "target": "Learn about Community Supporters"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Copy as list of links",
+            "target": "Copy as list of links"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Refresh connections",
+            "target": "Refresh connections"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Send results to Smart Context",
+            "target": "Send results to Smart Context"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Connections settings",
+            "target": "Connections settings"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Help & getting started",
+            "target": "Help & getting started"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "SmartEnv: Reloading environment because of version mismatch",
+            "target": "SmartEnv: Reloading environment because of version mismatch"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "get_link_target_path: file_paths not found",
+            "target": "get_link_target_path: file_paths not found"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "ObsidianFsAdapter: Unable to register source watchers without plugin context",
+            "target": "ObsidianFsAdapter: Unable to register source watchers without plugin context"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "[smart-view] attach_disposer called with invalid disposer",
+            "target": "[smart-view] attach_disposer called with invalid disposer"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "[smart-view] attach_disposer called with no valid disposer functions",
+            "target": "[smart-view] attach_disposer called with no valid disposer functions"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Scope required for rendering markdown in Obsidian adapter",
+            "target": "Scope required for rendering markdown in Obsidian adapter"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Error rendering markdown in Obsidian adapter",
+            "target": "Error rendering markdown in Obsidian adapter"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "nearest: no vec",
+            "target": "nearest: no vec"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "furthest: no vec",
+            "target": "furthest: no vec"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Smart Connections: Error during import: re-queueing import",
+            "target": "Smart Connections: Error during import: re-queueing import"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Entity.search: keywords not set or is not an array",
+            "target": "Entity.search: keywords not set or is not an array"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "SmartSources: Failed to unregister env event listener",
+            "target": "SmartSources: Failed to unregister env event listener"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "SmartSources: Unable to initialize source on create event",
+            "target": "SmartSources: Unable to initialize source on create event"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "SmartSources: Unable to resolve source on modify event",
+            "target": "SmartSources: Unable to resolve source on modify event"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "SmartSources: Unable to initialize source on rename event",
+            "target": "SmartSources: Unable to initialize source on rename event"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "search_filter.keywords not set",
+            "target": "search_filter.keywords not set"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "fixing trailing comma error",
+            "target": "fixing trailing comma error"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Error parsing JSON:",
+            "target": "Error parsing JSON:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "merge error: Expected an object from parse_markdown_blocks, but received:",
+            "target": "merge error: Expected an object from parse_markdown_blocks, but received:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Obsidian environment not found; cannot render markdown.",
+            "target": "Obsidian environment not found; cannot render markdown."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "ObsidianMarkdownSourceContentAdapter: Timeout waiting for markdown to render.",
+            "target": "ObsidianMarkdownSourceContentAdapter: Timeout waiting for markdown to render."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "CanvasSourceContentAdapter: invalid JSON content.",
+            "target": "CanvasSourceContentAdapter: invalid JSON content."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "re_render_settings is not a function (must be passed in model opts)",
+            "target": "re_render_settings is not a function (must be passed in model opts)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "reload_model is not a function (must be passed in model opts)",
+            "target": "reload_model is not a function (must be passed in model opts)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Request error:",
+            "target": "Request error:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Invalid model data, not re-rendering settings",
+            "target": "Invalid model data, not re-rendering settings"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "models.dev fetch failed; continuing without enrichment",
+            "target": "models.dev fetch failed; continuing without enrichment"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "parse error for line: ",
+            "target": "parse error for line: "
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Invalid suggestion action",
+            "target": "Invalid suggestion action"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "No callback defined for heading button",
+            "target": "No callback defined for heading button"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "No results to post-process, received:",
+            "target": "No results to post-process, received:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "No entity found for refresh",
+            "target": "No entity found for refresh"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Waiting for containerEl to be ready...",
+            "target": "Waiting for containerEl to be ready..."
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Connections container is not connected to DOM",
+            "target": "Connections container is not connected to DOM"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copied login link to clipboard.",
+            "target": "Copied login link to clipboard."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copy failed. Please select and copy the link manually.",
+            "target": "Copy failed. Please select and copy the link manually."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please complete the login in your browser.",
+            "target": "Please complete the login in your browser."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Logged out of Smart Plugins",
+            "target": "Logged out of Smart Plugins"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to load README",
+            "target": "Failed to load README"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Nice try! This is a PRO feature. Please upgrade to access this setting.",
+            "target": "Nice try! This is a PRO feature. Please upgrade to access this setting."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unable to copy text: no valid method found.",
+            "target": "Unable to copy text: no valid method found."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Failed to copy.",
+            "target": "Failed to copy."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No active note found",
+            "target": "No active note found"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Active note is not indexed by Smart Environment",
+            "target": "Active note is not indexed by Smart Environment"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Smart Env exported",
+            "target": "Smart Env exported"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No OAuth code provided in URL. Login failed.",
+            "target": "No OAuth code provided in URL. Login failed."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No connection results to send to Smart Context",
+            "target": "No connection results to send to Smart Context"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No visible connection results to send to Smart Context",
+            "target": "No visible connection results to send to Smart Context"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No connection results to copy",
+            "target": "No connection results to copy"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "No visible connection results to copy",
+            "target": "No visible connection results to copy"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Copied connections as list of links",
+            "target": "Copied connections as list of links"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Hide failed – check console",
+            "target": "Hide failed – check console"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Connections links copied to clipboard",
+            "target": "Connections links copied to clipboard"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unhide failed – check console",
+            "target": "Unhide failed – check console"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unpin failed – check console",
+            "target": "Unpin failed – check console"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Turning on will include the folder path in the connections results.",
+            "target": "Turning on will include the folder path in the connections results."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Adjust the number of connections displayed in the connections view (default 20).",
+            "target": "Adjust the number of connections displayed in the connections view (default 20)."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Exclude notes that already link to the current note from the connections results.",
+            "target": "Exclude notes that already link to the current note from the connections results."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Exclude notes that are already linked from within the current note from appearing in the connections results.",
+            "target": "Exclude notes that are already linked from within the current note from appearing in the connections results."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Notes must match this value in their file/folder path. Matching notes will be included in the connections results. Separate multiple values with commas.",
+            "target": "Notes must match this value in their file/folder path. Matching notes will be included in the connections results. Separate multiple values with commas."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Notes must *not* match this value in their file/folder path. Matching notes will be *excluded* from the connections results. Separate multiple values with commas.",
+            "target": "Notes must *not* match this value in their file/folder path. Matching notes will be *excluded* from the connections results. Separate multiple values with commas."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Show only sources in the connections results (no blocks).",
+            "target": "Show only sources in the connections results (no blocks)."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Blocks represent parts/sections of notes. Get more granular results.",
+            "target": "Blocks represent parts/sections of notes. Get more granular results."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Select a model platform to use with Smart Model.",
+            "target": "Select a model platform to use with Smart Model."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "OpenAI (API)",
+            "target": "OpenAI (API)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "API, 8,191 tokens, 1,536 dim",
+            "target": "API, 8,191 tokens, 1,536 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "API, 8,191 tokens, 3,072 dim",
+            "target": "API, 8,191 tokens, 3,072 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Transformers (Local, built-in)",
+            "target": "Transformers (Local, built-in)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 512 tokens, 384 dim (recommended)",
+            "target": "Local, 512 tokens, 384 dim (recommended)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 512 tokens, 384 dim",
+            "target": "Local, 512 tokens, 384 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 512 tokens, 768 dim",
+            "target": "Local, 512 tokens, 768 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 2,048 tokens, 768 dim",
+            "target": "Local, 2,048 tokens, 768 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 4,096 tokens, 384 dim",
+            "target": "Local, 4,096 tokens, 384 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 8,192 tokens, 768 dim, Chinese/English bilingual",
+            "target": "Local, 8,192 tokens, 768 dim, Chinese/English bilingual"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 8,192 tokens, 512 dim",
+            "target": "Local, 8,192 tokens, 512 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Local, 8,192 tokens, 768 dim",
+            "target": "Local, 8,192 tokens, 768 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Ollama (Local)",
+            "target": "Ollama (Local)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enter the host for your Ollama instance",
+            "target": "Enter the host for your Ollama instance"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "API, 2,048 tokens, 768 dim",
+            "target": "API, 2,048 tokens, 768 dim"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "LM Studio",
+            "target": "LM Studio"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Refresh the list of available models.",
+            "target": "Refresh the list of available models."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Select a platform/provider for chat models.",
+            "target": "Select a platform/provider for chat models."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Select a chat model.",
+            "target": "Select a chat model."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enter your API key for the chat model platform.",
+            "target": "Enter your API key for the chat model platform."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude",
+            "target": "Anthropic Claude"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude Opus 4.1 snapshot (2025-08-05)",
+            "target": "Anthropic Claude Opus 4.1 snapshot (2025-08-05)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude Opus 4 snapshot (2025-05-14)",
+            "target": "Anthropic Claude Opus 4 snapshot (2025-05-14)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude Sonnet 4 snapshot (2025-05-14)",
+            "target": "Anthropic Claude Sonnet 4 snapshot (2025-05-14)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3.7 Sonnet (rolling-latest)",
+            "target": "Anthropic Claude 3.7 Sonnet (rolling-latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3.7 Sonnet snapshot (2025-02-19)",
+            "target": "Anthropic Claude 3.7 Sonnet snapshot (2025-02-19)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3.5 Sonnet (rolling-latest)",
+            "target": "Anthropic Claude 3.5 Sonnet (rolling-latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3.5 Sonnet snapshot (2024-10-22)",
+            "target": "Anthropic Claude 3.5 Sonnet snapshot (2024-10-22)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3.5 Haiku (rolling-latest)",
+            "target": "Anthropic Claude 3.5 Haiku (rolling-latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3.5 Haiku snapshot (2024-10-22)",
+            "target": "Anthropic Claude 3.5 Haiku snapshot (2024-10-22)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3 Opus (rolling-latest)",
+            "target": "Anthropic Claude 3 Opus (rolling-latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3 Opus snapshot (2024-02-29)",
+            "target": "Anthropic Claude 3 Opus snapshot (2024-02-29)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3 Sonnet snapshot (2024-02-29)",
+            "target": "Anthropic Claude 3 Sonnet snapshot (2024-02-29)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Anthropic Claude 3 Haiku snapshot (2024-03-07)",
+            "target": "Anthropic Claude 3 Haiku snapshot (2024-03-07)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Azure OpenAI",
+            "target": "Azure OpenAI"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The name of your Azure OpenAI resource (e.g. 'my-azure-openai').",
+            "target": "The name of your Azure OpenAI resource (e.g. 'my-azure-openai')."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The name of your specific model deployment (e.g. 'gpt35-deployment').",
+            "target": "The name of your specific model deployment (e.g. 'gpt35-deployment')."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The API version for Azure OpenAI (e.g. '2024-10-01-preview').",
+            "target": "The API version for Azure OpenAI (e.g. '2024-10-01-preview')."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Open Router",
+            "target": "Open Router"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "LM Studio (OpenAI‑compatible)",
+            "target": "LM Studio (OpenAI‑compatible)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Pick a built-in or external adapter to parse request/response data.",
+            "target": "Pick a built-in or external adapter to parse request/response data."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enter the model name for your endpoint if needed.",
+            "target": "Enter the model name for your endpoint if needed."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "e.g. http or https",
+            "target": "e.g. http or https"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Port number or leave blank",
+            "target": "Port number or leave blank"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Path portion of the URL (leading slash optional)",
+            "target": "Path portion of the URL (leading slash optional)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Enable streaming if your API supports it.",
+            "target": "Enable streaming if your API supports it."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Max number of tokens your model can handle in the prompt.",
+            "target": "Max number of tokens your model can handle in the prompt."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "If your service requires an API key, add it here.",
+            "target": "If your service requires an API key, add it here."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "xAI Grok",
+            "target": "xAI Grok"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "A friendly name for this model configuration.",
+            "target": "A friendly name for this model configuration."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "The model to use from the selected provider.",
+            "target": "The model to use from the selected provider."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Choose whether results should be sources or blocks.",
+            "target": "Choose whether results should be sources or blocks."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Advanced tools for context engineering. Utilize Bases, images, and external sources (great for coders!) in your contexts.",
+            "target": "Advanced tools for context engineering. Utilize Bases, images, and external sources (great for coders!) in your contexts."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Manage the list of folders excluded from processing.",
+            "target": "Manage the list of folders excluded from processing."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "View all excluded sources.",
+            "target": "View all excluded sources."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Clear sources data and re-import.",
+            "target": "Clear sources data and re-import."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Turn off to prevent rendering markdown and display connection results as plain text.",
+            "target": "Turn off to prevent rendering markdown and display connection results as plain text."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Smart Connections: Open connections view",
+            "target": "Smart Connections: Open connections view"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Smart Lookup: Open lookup view",
+            "target": "Smart Lookup: Open lookup view"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "Smart Connections: Open random connection",
+            "target": "Smart Connections: Open random connection"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "hypotheticals is required",
+            "target": "hypotheticals is required"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "error",
+            "source": "Block not found",
+            "target": "Block not found"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Open Router (cloud)",
+            "target": "Open Router (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: LM Studio (local, requires LM Studio app)",
+            "target": "PRO: LM Studio (local, requires LM Studio app)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: Ollama (local, requires Ollama app)",
+            "target": "PRO: Ollama (local, requires Ollama app)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: OpenAI (cloud)",
+            "target": "PRO: OpenAI (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: Cohere (cloud)",
+            "target": "PRO: Cohere (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: xAI Grok (cloud)",
+            "target": "PRO: xAI Grok (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: Anthropic Claude (cloud)",
+            "target": "PRO: Anthropic Claude (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: Deepseek (cloud)",
+            "target": "PRO: Deepseek (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: Azure OpenAI (cloud)",
+            "target": "PRO: Azure OpenAI (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Transformers (easy, local, built-in)",
+            "target": "Transformers (easy, local, built-in)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "PRO: Open Router (cloud)",
+            "target": "PRO: Open Router (cloud)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "XML-style (default)",
+            "target": "XML-style (default)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Markdown headings",
+            "target": "Markdown headings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "JSON structured",
+            "target": "JSON structured"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Custom (PRO)",
+            "target": "Custom (PRO)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Learn about Connections Lists",
+            "target": "Learn about Connections Lists"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Connections Lists",
+            "target": "Settings documentation for Connections Lists"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Display",
+            "target": "Settings documentation for Display"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Score Algorithms",
+            "target": "Settings documentation for Score Algorithms"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Ranking Algorithms",
+            "target": "Settings documentation for Ranking Algorithms"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Filters",
+            "target": "Settings documentation for Filters"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Learn about the inline connections feature",
+            "target": "Learn about the inline connections feature"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for inline connections",
+            "target": "Settings documentation for inline connections"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Footer Connections",
+            "target": "Settings documentation for Footer Connections"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Learn about Lookup Lists",
+            "target": "Learn about Lookup Lists"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "Settings documentation for Lookup Lists",
+            "target": "Settings documentation for Lookup Lists"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Unknown error",
+            "target": "Unknown error"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "Invalid suggestion action",
+            "target": "Invalid suggestion action"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "No action defined for this suggestion",
+            "target": "No action defined for this suggestion"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "message",
+            "source": "No suggestions returned from action",
+            "target": "No suggestions returned from action"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Minimum length",
+            "target": "Minimum length"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Show full path",
+            "target": "Show full path"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Results limit",
+            "target": "Results limit"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Exclude inlinks (backlinks)",
+            "target": "Exclude inlinks (backlinks)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Exclude outlinks",
+            "target": "Exclude outlinks"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Include filter",
+            "target": "Include filter"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Exclude filter",
+            "target": "Exclude filter"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Hide blocks in results",
+            "target": "Hide blocks in results"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Model Platform",
+            "target": "Model Platform"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "No models currently available",
+            "target": "No models currently available"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "OpenAI Text-3 Small",
+            "target": "OpenAI Text-3 Small"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "OpenAI Text-3 Large",
+            "target": "OpenAI Text-3 Large"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "OpenAI Ada",
+            "target": "OpenAI Ada"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Ollama host",
+            "target": "Ollama host"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Refresh Models",
+            "target": "Refresh Models"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "CORS required",
+            "target": "CORS required"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Chat Model Platform",
+            "target": "Chat Model Platform"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Chat Model",
+            "target": "Chat Model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "API Key",
+            "target": "API Key"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude Opus 4.1 (2025-08-05)",
+            "target": "Claude Opus 4.1 (2025-08-05)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude Opus 4 (2025-05-14)",
+            "target": "Claude Opus 4 (2025-05-14)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude Sonnet 4 (2025-05-14)",
+            "target": "Claude Sonnet 4 (2025-05-14)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3.7 Sonnet (latest)",
+            "target": "Claude 3.7 Sonnet (latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3.7 Sonnet (2025-02-19)",
+            "target": "Claude 3.7 Sonnet (2025-02-19)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3.5 Sonnet (latest)",
+            "target": "Claude 3.5 Sonnet (latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3.5 Sonnet (2024-10-22)",
+            "target": "Claude 3.5 Sonnet (2024-10-22)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3.5 Haiku (latest)",
+            "target": "Claude 3.5 Haiku (latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3.5 Haiku (2024-10-22)",
+            "target": "Claude 3.5 Haiku (2024-10-22)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3 Opus (latest)",
+            "target": "Claude 3 Opus (latest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3 Opus (2024-02-29)",
+            "target": "Claude 3 Opus (2024-02-29)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3 Sonnet (2024-02-29)",
+            "target": "Claude 3 Sonnet (2024-02-29)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Claude 3 Haiku (2024-03-07)",
+            "target": "Claude 3 Haiku (2024-03-07)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Note about using OpenAI",
+            "target": "Note about using OpenAI"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Azure Resource Name",
+            "target": "Azure Resource Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Azure Deployment Name",
+            "target": "Azure Deployment Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Azure API Version",
+            "target": "Azure API Version"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "API Adapter",
+            "target": "API Adapter"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Model Name",
+            "target": "Model Name"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Max Input Tokens",
+            "target": "Max Input Tokens"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "BGE-micro-v2 (fastest)",
+            "target": "BGE-micro-v2 (fastest)"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Multilingual E5 Small",
+            "target": "Multilingual E5 Small"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Lookup results type",
+            "target": "Lookup results type"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Chat Pro",
+            "target": "Chat Pro"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Connections Pro",
+            "target": "Connections Pro"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Context Pro",
+            "target": "Context Pro"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Manage excluded folders",
+            "target": "Manage excluded folders"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "View all exclusions",
+            "target": "View all exclusions"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Reset data",
+            "target": "Reset data"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "JSON Stringify",
+            "target": "JSON Stringify"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Show release notes",
+            "target": "Show release notes"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Connection results type",
+            "target": "Connection results type"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Render markdown",
+            "target": "Render markdown"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Open: Random note from connections",
+            "target": "Open: Random note from connections"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Show: Getting started slideshow",
+            "target": "Show: Getting started slideshow"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Insert: Connections codeblock",
+            "target": "Insert: Connections codeblock"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter number ex. 300",
+            "target": "Enter number ex. 300"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter OpenAI API key",
+            "target": "Enter OpenAI API key"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "Enter Google API Key",
+            "target": "Enter Google API Key"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Test model",
+            "target": "Test model"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Paths too long to import into Smart Environment",
+            "target": "Paths too long to import into Smart Environment"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Loading stats...",
+            "target": "Loading stats..."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Failed to load stats.",
+            "target": "Failed to load stats."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Smart Environment",
+            "target": "Smart Environment"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Manage global settings in the dedicated Smart Environment settings tab.",
+            "target": "Manage global settings in the dedicated Smart Environment settings tab."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Open settings",
+            "target": "Open settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Manage all global Smart Environment settings from one tab. These settings apply to all Smart Plugins.",
+            "target": "Manage all global Smart Environment settings from one tab. These settings apply to all Smart Plugins."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Smart Environment is loading…",
+            "target": "Smart Environment is loading…"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Smart Environment not yet initialized.",
+            "target": "Smart Environment not yet initialized."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Load Smart Environment",
+            "target": "Load Smart Environment"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Open in browser",
+            "target": "Open in browser"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Report a bug",
+            "target": "Report a bug"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Loading…",
+            "target": "Loading…"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Smart Environment / Connections loading…",
+            "target": "Smart Environment / Connections loading…"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Refresh connections",
+            "target": "Refresh connections"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Expand all",
+            "target": "Expand all"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Collapse all",
+            "target": "Collapse all"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Send results to Smart Context",
+            "target": "Send results to Smart Context"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Copy as list of links",
+            "target": "Copy as list of links"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Connections settings",
+            "target": "Connections settings"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Help & getting started",
+            "target": "Help & getting started"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "Getting Started With Smart Connections",
+            "target": "Getting Started With Smart Connections"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "More actions",
+            "target": "More actions"
+        },
+        {
+            "type": "VariableDeclarator",
+            "name": "title",
+            "source": "Smart Environment status",
+            "target": "Smart Environment status"
+        }
+    ],
+    "regex": []
+}
