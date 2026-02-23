@@ -1,0 +1,93 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "recent-files-obsidian",
+        "version": "1.0.0",
+        "title": "Recent Files",
+        "description": "Recent Files Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "1.7.6",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "appendText",
+            "source": "If this plugin adds value for you and you would like to help support continued development, please use the buttons below:",
+            "target": "If this plugin adds value for you and you would like to help support continued development, please use the buttons below:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Maximum number of filenames to keep in the list.",
+            "target": "Maximum number of filenames to keep in the list."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Omitted pathname patterns",
+            "target": "Omitted pathname patterns"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Omitted frontmatter-tag patterns",
+            "target": "Omitted frontmatter-tag patterns"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Omit bookmarked files",
+            "target": "Omit bookmarked files"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Update list when file is:",
+            "target": "Update list when file is:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "List length",
+            "target": "List length"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "^daily/\n\\\\.png$\nfoobar.*baz",
+            "target": "^daily/\n\\\\.png$\nfoobar.*baz"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "ignore\narchive/a/b",
+            "target": "ignore\narchive/a/b"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Open in new tab",
+            "target": "Open in new tab"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Clear list",
+            "target": "Clear list"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Cannot find a file with that name",
+            "target": "Cannot find a file with that name"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "List length must be a positive integer",
+            "target": "List length must be a positive integer"
+        }
+    ],
+    "regex": []
+}
