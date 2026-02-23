@@ -1,0 +1,213 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "calendar",
+        "version": "1.0.0",
+        "title": "Calendar",
+        "description": "Calendar Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "1.5.13",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "未找到自定义每日笔记设置！",
+            "target": "未找到自定义每日笔记设置！"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "未找到自定义每周笔记设置！",
+            "target": "未找到自定义每周笔记设置！"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "未找到自定义每月笔记设置！",
+            "target": "未找到自定义每月笔记设置！"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "[日历] 未能找到每日笔记文件夹",
+            "target": "[日历] 未能找到每日笔记文件夹"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "[日历] 未能找到每周笔记文件夹",
+            "target": "[日历] 未能找到每周笔记文件夹"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "单个圆点应代表多少字数？",
+            "target": "单个圆点应代表多少字数？"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "创建新笔记前显示确认对话框",
+            "target": "创建新笔记前显示确认对话框"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "启用此选项以添加包含周号的列",
+            "target": "启用此选项以添加包含周号的列"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "如需更多语法帮助，请参阅格式参考",
+            "target": "如需更多语法帮助，请参阅格式参考"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "新的每周笔记将放置于此",
+            "target": "新的每周笔记将放置于此"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "如需使用不同于默认的区域设置，请配置此项",
+            "target": "如需使用不同于默认的区域设置，请配置此项"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "每点字数",
+            "target": "每点字数"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "每周起始日：",
+            "target": "每周起始日："
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "创建新笔记前确认",
+            "target": "创建新笔记前确认"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "显示周号",
+            "target": "显示周号"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "每周笔记格式",
+            "target": "每周笔记格式"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "每周笔记文件夹",
+            "target": "每周笔记文件夹"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "覆盖区域设置：",
+            "target": "覆盖区域设置："
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "无法创建新文件。",
+            "target": "无法创建新文件。"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "打开视图",
+            "target": "打开视图"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "打开每周笔记",
+            "target": "打开每周笔记"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "显示活动笔记",
+            "target": "显示活动笔记"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "⚠️ 每日笔记插件未启用",
+            "target": "⚠️ 每日笔记插件未启用"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "日历功能建议与每日笔记插件或周期笔记插件（可在社区插件库中找到）配合使用。",
+            "target": "日历功能建议与每日笔记插件或周期笔记插件（可在社区插件库中找到）配合使用。"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "通用设置",
+            "target": "通用设置"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "每周笔记设置",
+            "target": "每周笔记设置"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "注意：每周笔记设置正在迁移。建议您安装'周期笔记'插件以在未来保留此功能。",
+            "target": "注意：每周笔记设置正在迁移。建议您安装'周期笔记'插件以在未来保留此功能。"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "高级设置",
+            "target": "高级设置"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "取消",
+            "target": "取消"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "新建每日笔记",
+            "target": "新建每日笔记"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "新建周报",
+            "target": "新建周报"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "tooltip",
+            "source": "上个月",
+            "target": "上个月"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "tooltip",
+            "source": "下个月",
+            "target": "下个月"
+        }
+    ],
+    "regex": []
+}
