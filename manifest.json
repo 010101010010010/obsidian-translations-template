@@ -106,5 +106,17 @@
         "hash": "41f010d541f010d541f010d541f010d5",
         "created_at": "2026-02-23T11:26:12.050Z",
         "updated_at": "2026-02-23T11:26:12.050Z"
+    },
+    {
+        "id": "86b20b31-60f1-46f2-b0b2-98b858d601f3",
+        "plugin": "obsidian-style-settings",
+        "language": "zh-cn",
+        "version": "1.0.9",
+        "supported_versions": "1.0.9",
+        "title": "Style Settings",
+        "description": "",
+        "hash": "4cc8c0f54cc8c0f54cc8c0f54cc8c0f5",
+        "created_at": "2026-02-23T11:26:16.158Z",
+        "updated_at": "2026-02-23T11:26:16.158Z"
     }
 ]
