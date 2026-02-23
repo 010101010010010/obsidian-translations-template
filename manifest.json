@@ -118,5 +118,17 @@
         "hash": "4cc8c0f54cc8c0f54cc8c0f54cc8c0f5",
         "created_at": "2026-02-23T11:26:16.158Z",
         "updated_at": "2026-02-23T11:26:16.158Z"
+    },
+    {
+        "id": "1bfc057e-6b43-4053-a679-9fbd538222ce",
+        "plugin": "obsidian-tasks-plugin",
+        "language": "zh-cn",
+        "version": "7.22.0",
+        "supported_versions": "7.22.0",
+        "title": "Tasks",
+        "description": "",
+        "hash": "4613b8a74613b8a74613b8a74613b8a7",
+        "created_at": "2026-02-23T11:26:49.238Z",
+        "updated_at": "2026-02-23T11:26:49.238Z"
     }
 ]
