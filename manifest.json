@@ -190,5 +190,17 @@
         "hash": "10ba07d310ba07d310ba07d310ba07d3",
         "created_at": "2026-02-23T11:27:16.498Z",
         "updated_at": "2026-02-23T11:27:16.498Z"
+    },
+    {
+        "id": "33c13bad-4930-4fb3-bcb9-a597b778c807",
+        "plugin": "tag-wrangler",
+        "language": "zh-cn",
+        "version": "0.6.4",
+        "supported_versions": "0.6.4",
+        "title": "Tag Wrangler",
+        "description": "",
+        "hash": "0a1e2a410a1e2a410a1e2a410a1e2a41",
+        "created_at": "2026-02-23T11:27:21.020Z",
+        "updated_at": "2026-02-23T11:27:21.020Z"
     }
 ]
