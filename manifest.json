@@ -46,5 +46,17 @@
         "hash": "537dc9de537dc9de537dc9de537dc9de",
         "created_at": "2026-02-23T11:25:02.448Z",
         "updated_at": "2026-02-23T11:25:02.448Z"
+    },
+    {
+        "id": "c268ec60-15d6-4936-b322-d33624d78e1e",
+        "plugin": "homepage",
+        "language": "zh-cn",
+        "version": "4.3.1",
+        "supported_versions": "4.3.1",
+        "title": "Homepage",
+        "description": "",
+        "hash": "1317f6011317f6011317f6011317f601",
+        "created_at": "2026-02-23T11:25:08.229Z",
+        "updated_at": "2026-02-23T11:25:08.229Z"
     }
 ]
