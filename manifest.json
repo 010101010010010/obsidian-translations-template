@@ -130,5 +130,17 @@
         "hash": "4613b8a74613b8a74613b8a74613b8a7",
         "created_at": "2026-02-23T11:26:49.238Z",
         "updated_at": "2026-02-23T11:26:49.238Z"
+    },
+    {
+        "id": "c047ce8b-e325-49b5-9915-6af700deefa3",
+        "plugin": "omnisearch",
+        "language": "zh-cn",
+        "version": "1.28.0",
+        "supported_versions": "1.28.0",
+        "title": "Omnisearch",
+        "description": "",
+        "hash": "02032490020324900203249002032490",
+        "created_at": "2026-02-23T11:26:53.341Z",
+        "updated_at": "2026-02-23T11:26:53.341Z"
     }
 ]
