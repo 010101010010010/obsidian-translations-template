@@ -1,0 +1,33 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "tag-wrangler",
+        "version": "1.0.0",
+        "title": "Tag Wrangler",
+        "description": "Tag Wrangler Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "0.6.4",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "setContent",
+            "source": "Enter new name (must be a valid Obsidian tag name):\n",
+            "target": "Enter new name (must be a valid Obsidian tag name):\n"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "WARNING: No Undo!",
+            "target": "WARNING: No Undo!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Create Tag Page",
+            "target": "Create Tag Page"
+        }
+    ],
+    "regex": []
+}
