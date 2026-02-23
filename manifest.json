@@ -34,5 +34,17 @@
         "hash": "69ce8b0c69ce8b0c69ce8b0c69ce8b0c",
         "created_at": "2026-02-23T11:23:01.612Z",
         "updated_at": "2026-02-23T11:23:01.612Z"
+    },
+    {
+        "id": "bdac6fa7-b3b0-4ad5-8ea7-4d41b3d3a83a",
+        "plugin": "copilot",
+        "language": "zh-cn",
+        "version": "3.1.5",
+        "supported_versions": "3.1.5",
+        "title": "Copilot",
+        "description": "",
+        "hash": "537dc9de537dc9de537dc9de537dc9de",
+        "created_at": "2026-02-23T11:25:02.448Z",
+        "updated_at": "2026-02-23T11:25:02.448Z"
     }
 ]
