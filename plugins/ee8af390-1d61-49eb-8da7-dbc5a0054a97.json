@@ -1,0 +1,93 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-kanban",
+        "version": "1.0.0",
+        "title": "Kanban",
+        "description": "Kanban Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "2.0.51",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error: kanban locale not found",
+            "target": "Error: kanban locale not found"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "Error creating kanban board:",
+            "target": "Error creating kanban board:"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom daily note settings found!",
+            "target": "No custom daily note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom weekly note settings found!",
+            "target": "No custom weekly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom monthly note settings found!",
+            "target": "No custom monthly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom quarterly note settings found!",
+            "target": "No custom quarterly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "No custom yearly note settings found!",
+            "target": "No custom yearly note settings found!"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "markRanges() will only accept an array of objects",
+            "target": "markRanges() will only accept an array of objects"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "Unknown config option(s) passed",
+            "target": "Unknown config option(s) passed"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "react-fast-compare cannot handle circular refs",
+            "target": "react-fast-compare cannot handle circular refs"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Unable to create new file.",
+            "target": "Unable to create new file."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Anno Domini",
+            "target": "Anno Domini"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Before Christ",
+            "target": "Before Christ"
+        }
+    ],
+    "regex": []
+}
