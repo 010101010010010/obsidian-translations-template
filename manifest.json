@@ -94,5 +94,17 @@
         "hash": "0a6b52220a6b52220a6b52220a6b5222",
         "created_at": "2026-02-23T11:26:08.705Z",
         "updated_at": "2026-02-23T11:26:08.705Z"
+    },
+    {
+        "id": "85565fb7-644c-404e-8d66-d279ca6d2a4a",
+        "plugin": "obsidian-meta-bind-plugin",
+        "language": "zh-cn",
+        "version": "1.4.6",
+        "supported_versions": "1.4.6",
+        "title": "Meta Bind",
+        "description": "",
+        "hash": "41f010d541f010d541f010d541f010d5",
+        "created_at": "2026-02-23T11:26:12.050Z",
+        "updated_at": "2026-02-23T11:26:12.050Z"
     }
 ]
