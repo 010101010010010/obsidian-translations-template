@@ -1,0 +1,552 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-icon-folder",
+        "version": "1.0.0",
+        "title": "Iconize",
+        "description": "Iconize Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "2.14.7",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "AssignmentExpression",
+            "name": "innerHTML",
+            "source": "<p>Drop to add icon.</p>",
+            "target": "<p>Drop to add icon.</p>"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "innerText",
+            "source": "Recently used Icons:",
+            "target": "Recently used Icons:"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "innerText",
+            "source": "All Icons:",
+            "target": "All Icons:"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "placeholder",
+            "source": "Select to download icon pack",
+            "target": "Select to download icon pack"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "Skipping internal plugin registration because it is not enabled.",
+            "target": "Skipping internal plugin registration because it is not enabled."
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "`leaf` in outline is undefined",
+            "target": "`leaf` in outline is undefined"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "`leaf` length in outline is 0",
+            "target": "`leaf` length in outline is 0"
+        },
+        {
+            "type": "CallExpression",
+            "name": "log",
+            "source": "unloading obsidian-icon-folder",
+            "target": "unloading obsidian-icon-folder"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Add icon pack",
+            "target": "Add icon pack"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Choose icon",
+            "target": "Choose icon"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Change icon",
+            "target": "Change icon"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Save Changes",
+            "target": "Save Changes"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setButtonText",
+            "source": "Browse icon packs",
+            "target": "Browse icon packs"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Add a custom icon pack.",
+            "target": "Add a custom icon pack."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Will add the icon based on the defined rule (as a plain string or in regex format).",
+            "target": "Will add the icon based on the defined rule (as a plain string or in regex format)."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Change the margin of the icons.",
+            "target": "Change the margin of the icons."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Change the color of the displayed icons.",
+            "target": "Change the color of the displayed icons."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Change the font size of the displayed icons.",
+            "target": "Change the font size of the displayed icons."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Change the default icon packs folder path.",
+            "target": "Change the default icon packs folder path."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Add a predefined icon pack that is officially supported.",
+            "target": "Add a predefined icon pack that is officially supported."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Change the limit for the recently used icons displayed in the icon selection modal.",
+            "target": "Change the limit for the recently used icons displayed in the icon selection modal."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggles the visibility of an icon for a file in the tab bar.",
+            "target": "Toggles the visibility of an icon for a file in the tab bar."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggles the visibility of an icon above the title of a file.",
+            "target": "Toggles the visibility of an icon above the title of a file."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggles whether to set the icon based on the frontmatter property `icon`.",
+            "target": "Toggles whether to set the icon based on the frontmatter property `icon`."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Sets the name of the frontmatter field which contains the icon.",
+            "target": "Sets the name of the frontmatter field which contains the icon."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Sets the name of the frontmatter field which contains the icon color.",
+            "target": "Sets the name of the frontmatter field which contains the icon color."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggles whether you are able to add and see icons in your notes and editor (e.g., ability to have :LiSofa: as an icon in your notes).",
+            "target": "Toggles whether you are able to add and see icons in your notes and editor (e.g., ability to have :LiSofa: as an icon in your notes)."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggles whether you are able to see icons in the links to other notes",
+            "target": "Toggles whether you are able to see icons in the links to other notes"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Change the icon identifier used in notes.",
+            "target": "Change the icon identifier used in notes."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggle debug mode to see more detailed logs in the console. Do not touch this unless you know what you are doing.",
+            "target": "Toggle debug mode to see more detailed logs in the console. Do not touch this unless you know what you are doing."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setDesc",
+            "source": "Toggles whether to try to add icons to the bookmark and outline internal plugins.",
+            "target": "Toggles whether to try to add icons to the bookmark and outline internal plugins."
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Add custom icon pack",
+            "target": "Add custom icon pack"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Add icon rule",
+            "target": "Add icon rule"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Extra margin (in pixels)",
+            "target": "Extra margin (in pixels)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Icon color",
+            "target": "Icon color"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Icon font size (in pixels)",
+            "target": "Icon font size (in pixels)"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Icon packs folder path",
+            "target": "Icon packs folder path"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Icons background check",
+            "target": "Icons background check"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Add predefined icon pack",
+            "target": "Add predefined icon pack"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Recently used icons limit",
+            "target": "Recently used icons limit"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Toggle icon in tabs",
+            "target": "Toggle icon in tabs"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Toggle icon in title",
+            "target": "Toggle icon in title"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Use icon in frontmatter",
+            "target": "Use icon in frontmatter"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Frontmatter icon field name",
+            "target": "Frontmatter icon field name"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Frontmatter icon color field name",
+            "target": "Frontmatter icon color field name"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Refresh icons from frontmatter",
+            "target": "Refresh icons from frontmatter"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Toggle icons while editing notes",
+            "target": "Toggle icons while editing notes"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Toggle icons in links",
+            "target": "Toggle icons in links"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Icon identifier",
+            "target": "Icon identifier"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "Toggle Debug Mode",
+            "target": "Toggle Debug Mode"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setName",
+            "source": "EXPERIMENTAL: Use internal plugins",
+            "target": "EXPERIMENTAL: Use internal plugins"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "Your icon pack name",
+            "target": "Your icon pack name"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "regex or simple string",
+            "target": "regex or simple string"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Edit custom rule",
+            "target": "Edit custom rule"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "Change color",
+            "target": "Change color"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Change icon",
+            "target": "Change icon"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTitle",
+            "source": "Change color of icon",
+            "target": "Change color of icon"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Add an icon",
+            "target": "Add an icon"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Prioritize the custom rule",
+            "target": "Prioritize the custom rule"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Deprioritize the custom rule",
+            "target": "Deprioritize the custom rule"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Edit the custom rule",
+            "target": "Edit the custom rule"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Set color to the default one",
+            "target": "Set color to the default one"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "Restore default",
+            "target": "Restore default"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Please delete your old icon packs and redownload your icon packs to use the new syncing mechanism.",
+            "target": "Please delete your old icon packs and redownload your icon packs to use the new syncing mechanism."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Icon pack already exists.",
+            "target": "Icon pack already exists."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Icon pack successfully created.",
+            "target": "Icon pack successfully created."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Changing icon packs...",
+            "target": "Changing icon packs..."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Done. This change requires a restart of Obsidian",
+            "target": "Done. This change requires a restart of Obsidian"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Icons successfully added.",
+            "target": "Icons successfully added."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Icon pack successfully deleted.",
+            "target": "Icon pack successfully deleted."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Icon rule added.",
+            "target": "Icon rule added."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Custom rule updated.",
+            "target": "Custom rule updated."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Custom rule deleted.",
+            "target": "Custom rule deleted."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Saving in progress...",
+            "target": "Saving in progress..."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "You need to reload Obsidian for this to take effect.",
+            "target": "You need to reload Obsidian for this to take effect."
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "Color of icon changed.",
+            "target": "Color of icon changed."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "LOG:",
+            "target": "LOG:"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "INFO:",
+            "target": "INFO:"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "WARN:",
+            "target": "WARN:"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "label",
+            "source": "ERROR:",
+            "target": "ERROR:"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "Set icon for file",
+            "target": "Set icon for file"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Include folders and files that are part of the path.",
+            "target": "Include folders and files that are part of the path."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Where the custom rule gets applied to.",
+            "target": "Where the custom rule gets applied to."
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Visibility of icons",
+            "target": "Visibility of icons"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Icon customization for files/folders",
+            "target": "Icon customization for files/folders"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Custom icon rules",
+            "target": "Custom icon rules"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Icon packs",
+            "target": "Icon packs"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "text",
+            "source": "Select a color for this icon",
+            "target": "Select a color for this icon"
+        }
+    ],
+    "regex": [
+        {
+            "source": "innerText = 'Recently used Icons:'",
+            "target": "innerText = 'Recently used Icons:'"
+        },
+        {
+            "source": "innerText = 'All Icons:'",
+            "target": "innerText = 'All Icons:'"
+        }
+    ]
+}
