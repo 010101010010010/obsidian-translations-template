@@ -1,0 +1,105 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-tasks-plugin",
+        "version": "1.0.0",
+        "title": "Tasks",
+        "description": "Tasks Localization & Tweaks",
+        "language": "",
+        "supportedVersions": "7.22.0",
+        "author": ""
+    },
+    "ast": [
+        {
+            "type": "AssignmentExpression",
+            "name": "innerHTML",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "AssignmentExpression",
+            "name": "title",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "CallExpression",
+            "name": "error",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "CallExpression",
+            "name": "info",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setPlaceholder",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setText",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "CallExpression",
+            "name": "setTooltip",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "CallExpression",
+            "name": "warn",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "NewExpression",
+            "name": "Notice",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "description",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "heading",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "name",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "placeholder",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "title",
+            "source": "已变更",
+            "target": "已变更"
+        },
+        {
+            "type": "ObjectProperty",
+            "name": "tooltip",
+            "source": "已变更",
+            "target": "已变更"
+        }
+    ],
+    "regex": []
+}
